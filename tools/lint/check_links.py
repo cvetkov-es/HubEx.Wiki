@@ -6,6 +6,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[2]
 LINK_RE = re.compile(r"\[[^\]]*\]\(([^)#\s]+)(?:#[^)]*)?\)")
 FENCE_RE = re.compile(r"^\s*`{3,}")
+INLINE_CODE_RE = re.compile(r"`[^`]*`")
 SKIP_PARTS = {".git", ".superpowers", "drafts"}
 
 
@@ -17,15 +18,19 @@ def strip_code_fences(text: str) -> str:
             in_fence = not in_fence
             continue
         if not in_fence:
+            # Также убирает инлайн-код, чтобы не проверять ссылки внутри него
+            line = INLINE_CODE_RE.sub("", line)
             out_lines.append(line)
     return "\n".join(out_lines)
 
 
 def main() -> int:
     broken = []
+    checked_count = 0
     for md in ROOT.rglob("*.md"):
         if SKIP_PARTS & set(md.parts):
             continue
+        checked_count += 1
         text = strip_code_fences(md.read_text(encoding="utf-8"))
         for target in LINK_RE.findall(text):
             if target.startswith(("http://", "https://", "mailto:")):
@@ -34,7 +39,7 @@ def main() -> int:
                 broken.append(f"{md.relative_to(ROOT)} -> {target}")
     for b in broken:
         print(f"БИТАЯ ССЫЛКА: {b}")
-    print(f"Проверено файлов: {len(list(ROOT.rglob('*.md')))}, битых ссылок: {len(broken)}")
+    print(f"Проверено файлов: {checked_count}, битых ссылок: {len(broken)}")
     return 1 if broken else 0
 
 
