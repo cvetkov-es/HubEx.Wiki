@@ -2,6 +2,7 @@ from pathlib import Path
 from unittest.mock import MagicMock
 
 import pytest
+import requests
 
 from update import manifest
 
@@ -43,5 +44,13 @@ def test_fetch_raises_on_empty(monkeypatch):
     resp = MagicMock(text="<urlset></urlset>")
     resp.raise_for_status = MagicMock()
     monkeypatch.setattr(manifest, "requests", MagicMock(get=MagicMock(return_value=resp)))
+    with pytest.raises(manifest.ManifestError):
+        manifest.fetch_manifest()
+
+
+def test_fetch_wraps_network_error(monkeypatch):
+    def boom(*a, **kw):
+        raise requests.RequestException("boom")
+    monkeypatch.setattr(manifest.requests, "get", boom)
     with pytest.raises(manifest.ManifestError):
         manifest.fetch_manifest()

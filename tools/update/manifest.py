@@ -36,8 +36,11 @@ def parse_manifest(xml: str) -> list:
 
 
 def fetch_manifest(*, timeout: int = 30) -> list:
-    resp = requests.get(SITEMAP_URL, timeout=timeout)
-    resp.raise_for_status()
+    try:
+        resp = requests.get(SITEMAP_URL, timeout=timeout)
+        resp.raise_for_status()
+    except requests.RequestException as e:
+        raise ManifestError(f"sitemap {SITEMAP_URL} не забрался: {e}") from e
     entries = parse_manifest(resp.text)
     if not entries:
         raise ManifestError(
