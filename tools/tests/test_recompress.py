@@ -75,7 +75,8 @@ def test_guard_problems_reported_but_spliced(tmp_path):
     model = lambda p: "- [X](pages/admin/Ghost.md) — не та ссылка."
     res = recompress.update_annotation(
         "admin/BusinessProcess", "тело\n", "changed", model=model, root=root)
-    assert res["problems"] == ["битая ссылка: pages/admin/Ghost.md"]
+    assert any("битая ссылка: pages/admin/Ghost.md" in p for p in res["problems"])
+    assert any("не совпадает с целью" in p for p in res["problems"])
     # строка всё равно вклеена — человек увидит её в git diff вместе с предупреждением
     assert "не та ссылка" in (root / "index.md").read_text(encoding="utf-8")
 

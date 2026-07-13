@@ -68,7 +68,7 @@ def update_annotation(page_id: str, page_md: str, status: str, *,
         annotation = model(prompt).strip().splitlines()[0].strip()
     except Exception as e:  # noqa: BLE001 — падение модели одной страницы не роняет прогон
         return {"page": page_id, "status": "error", "problems": [], "error": str(e)}
-    probs = guard.problems(annotation, base)
+    probs = guard.problems(annotation, base, expected_target=target)
     idx.write_text(splice(index_text, annotation, target), encoding="utf-8")
     return {"page": page_id, "status": "ok", "problems": probs, "error": None}
 
