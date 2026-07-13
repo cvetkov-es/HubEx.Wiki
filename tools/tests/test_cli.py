@@ -47,6 +47,15 @@ def test_report_file_written(monkeypatch, tmp_path):
     assert "Изменений нет." in out.read_text(encoding="utf-8")
 
 
+def test_report_file_contains_recompress_summary(monkeypatch, tmp_path):
+    monkeypatch.setattr(wiki_cli.pipeline, "run_update", lambda **kw: [
+        {"page": "admin/A", "status": "changed", "error": None,
+         "recompress": {"page": "admin/A", "status": "ok", "problems": [], "error": None}}])
+    out = tmp_path / "r.md"
+    assert wiki_cli.main(["update", "--recompress", "--report-file", str(out)]) == 0
+    assert "Пересжатие" in out.read_text(encoding="utf-8")
+
+
 def test_flags_passed_to_pipeline(monkeypatch):
     seen = {}
 

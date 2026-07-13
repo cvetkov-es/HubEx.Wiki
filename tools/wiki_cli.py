@@ -37,10 +37,13 @@ def main(argv=None) -> int:
             return 2
         text = report.render(results)
         print(text, end="")
+        report_text = text
         if args.recompress:
-            print(recompress.render_summary(results), end="")
+            summary = recompress.render_summary(results)
+            print(summary, end="")
+            report_text += summary
         if args.report_file:
-            args.report_file.write_text(text, encoding="utf-8")
+            args.report_file.write_text(report_text, encoding="utf-8")
         has_err = any(r["status"] == "error" for r in results)
         rcs = [r.get("recompress") or {} for r in results]
         has_rc_err = any(rc.get("status") == "error" for rc in rcs)
