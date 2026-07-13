@@ -19,16 +19,24 @@ def test_parse_keeps_tracked_sections():
 def test_parse_drops_legacy_copy():
     ids = [pid for pid, _ in manifest.parse_manifest(FIXTURE)]
     assert "admin/PowersCopy" not in ids
+    assert "admin/PowersOld" not in ids
 
 
 def test_parse_drops_root_navigation():
     ids = [pid for pid, _ in manifest.parse_manifest(FIXTURE)]
     assert not any("index_admin" in i or "GettingStarted" in i for i in ids)
+    assert "user/GettingStartedUser" not in ids
+    assert "admin/indexOverview" not in ids
 
 
 def test_parse_sorted():
     ids = [pid for pid, _ in manifest.parse_manifest(FIXTURE)]
     assert ids == sorted(ids)
+
+
+def test_parse_dedupes():
+    ids = [pid for pid, _ in manifest.parse_manifest(FIXTURE)]
+    assert ids.count("admin/BusinessProcess") == 1
 
 
 def test_fetch_raises_on_empty(monkeypatch):
