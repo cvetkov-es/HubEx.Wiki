@@ -177,11 +177,15 @@
 - [IntegrationBitrix24](pages/admin/IntegrationBitrix24.md) — альтернативная интеграция с Битрикс24 через приложение из Маркетплейса Битрикс24.
 - [SSOintegration](pages/admin/SSOintegration.md) — единый вход SSO: протоколы (SAML, OAuth2/OIDC, LDAP), настройка через Keycloak.
 - [HowToManageGmailIntegration](pages/user/HowToManageGmailIntegration.md) — настройка доступа «ненадёжных приложений» в Google для интеграции HubEx с Gmail.
-- [Integration](pages/user/Integration.md) — страница-заглушка раздела «Руководство пользователя» (реального содержания нет).
 
 ## Моб.приложения
 
 - [CustomerApp](pages/user/CustomerApp.md) — мобильное приложение HubEx Заказчик: вход, создание заявки, чат, отмена, приёмка работ, оценка исполнителя.
 - [CustomerWeb](pages/user/CustomerWeb.md) — клиентский веб-портал заказчика: вход, создание заявки, чат, печать акта, аналитика.
 - [RouteToObject](pages/user/RouteToObject.md) — построение маршрута до объекта через внешние карты (Яндекс, 2ГИС, Google).
+
+
+## Новые страницы (разложить по темам)
+- [Руководство пользователя HubEx: видео](pages/user/HubExVids.md) — подборка обучающих видео по HubEx: обзор функций, первые шаги, импорт данных через Excel.
+- [Маркировка Честный знак (Data Matrix)](pages/user/AboutDataMatrix.md) — как включить и настроить сканирование кодов Data Matrix при списании маркированных материалов по заявке: полномочия роли, признак «Маркируемый материал», обязательность сканирования и работа в мобильном и веб-приложении.
 
