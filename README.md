@@ -33,6 +33,8 @@
 
 ## Обновление
 
+`tools/` — git-сабмодуль: пайплайн вынесен в отдельный репозиторий `HubEx.Wiki.Pipeline` (рядом, у того же владельца). Перед первым запуском выкачай его — `git submodule update --init` (или клонируй репозиторий с `--recursive`). Тем, кому нужна только вика, сабмодуль не нужен: обычный `git clone` его не тянет.
+
 ```
 python3 tools/wiki_cli.py update [--page <section>/<slug>] [--recompress] [--report-file PATH] [--jobs N]
 ```
