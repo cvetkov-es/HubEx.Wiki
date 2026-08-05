@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Боковая панель для работы с Заявкой: обновление от 12.12.2023"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/TicketsSidebar12122023.html"
 section: "ReleaseNotes"
 content_hash: "175782874b49b2db"

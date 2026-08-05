@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Что нового в HubEx: обновления за первый квартал 2025 года"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ListOfChanges31032025.html"
 section: "ReleaseNotes"
 content_hash: "3d3b467a8141b1cc"

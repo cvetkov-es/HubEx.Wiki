@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "UI полномочия"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/admin/UI_Permissions.html"
 section: "admin"
 content_hash: "6e7c8a02d07c857b"

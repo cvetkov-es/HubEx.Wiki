@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Кастомная настройка отображения фильтров в Заявках: обновление от 03.07.2024"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/FilterSettings03072024.html"
 section: "ReleaseNotes"
 content_hash: "325c99d1635adb5e"

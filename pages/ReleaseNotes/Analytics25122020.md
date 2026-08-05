@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Отчет Общая аналитика: обновление от 25.12.2020"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/Analytics25122020.html"
 section: "ReleaseNotes"
 content_hash: "153f529d8dc2fd99"

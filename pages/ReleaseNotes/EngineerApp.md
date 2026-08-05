@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Обновления мобильного приложения HubEx для сервисной службы"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/EngineerApp.html"
 section: "ReleaseNotes"
 content_hash: "6b9414ce39da2f42"

@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Новая форма Заявки: обновление от 02.10.2020"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/NewTicketForm02102020.html"
 section: "ReleaseNotes"
 content_hash: "eb73b05cbb673a75"

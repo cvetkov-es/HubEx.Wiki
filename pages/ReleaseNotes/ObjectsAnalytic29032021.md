@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Отчет по объектам: обновление от 29.03.2021"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ObjectsAnalytic29032021.html"
 section: "ReleaseNotes"
 content_hash: "4dc6d76a7e710365"

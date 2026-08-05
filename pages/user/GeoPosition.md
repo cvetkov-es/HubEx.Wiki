@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Текущая геопозиция сотрудников"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/GeoPosition.html"
 section: "user"
 content_hash: "5d533aa768ece3f4"

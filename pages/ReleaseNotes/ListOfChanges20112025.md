@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Новые возможности фильтрации: Фильтрация объектов и оборудования по дополнительным полям, Плановые трудозатраты в видах работ в минутах"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ListOfChanges20112025.html"
 section: "ReleaseNotes"
 content_hash: "0de8838990b83cf3"

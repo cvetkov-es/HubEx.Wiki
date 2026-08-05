@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Служебные пользователи"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/admin/ServiceUsers.html"
 section: "admin"
 content_hash: "4fb065f9e9d6c93b"

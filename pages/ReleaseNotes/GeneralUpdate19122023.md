@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Важные доработки (триггеры увеломлений, редактирование объекта в МП и т.д.): обновление от 19.12.2023"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/GeneralUpdate19122023.html"
 section: "ReleaseNotes"
 content_hash: "2b3c4ed6bce4258e"

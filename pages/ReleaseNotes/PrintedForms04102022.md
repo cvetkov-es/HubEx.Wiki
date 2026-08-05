@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Новые печатные формы и график обслуживания объектов: обновление от 04.10.2022"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/PrintedForms04102022.html"
 section: "ReleaseNotes"
 content_hash: "0222cabfb5d635ed"

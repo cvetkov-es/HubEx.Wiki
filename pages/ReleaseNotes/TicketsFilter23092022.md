@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Фильтрация заявок по дополнительным полям: обновление от 23.09.2022"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/TicketsFilter23092022.html"
 section: "ReleaseNotes"
 content_hash: "26c58577cf4c4839"

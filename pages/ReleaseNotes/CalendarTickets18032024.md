@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Отображение Заявки для нескольких исполнителей в календаре: обновление от 18.03.2024"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/CalendarTickets18032024.html"
 section: "ReleaseNotes"
 content_hash: "4e5e18be6b526ee6"

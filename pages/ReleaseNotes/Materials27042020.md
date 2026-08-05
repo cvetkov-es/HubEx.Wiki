@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Учет материалов в Заявке: обновление от 27.04.2020"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/Materials27042020.html"
 section: "ReleaseNotes"
 content_hash: "206569db91d5bbe7"

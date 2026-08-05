@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Форматирование поля Описание заявки: обновление от 23.01.2023"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/DescriptionField23012023.html"
 section: "ReleaseNotes"
 content_hash: "5f1be2bc0853d4a0"

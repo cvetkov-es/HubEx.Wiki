@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Выбор нескольких исполнителей (бригад) в плановой заявке: обновление от 26.10.2023"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/SeveralEngineersInPlan26102023.html"
 section: "ReleaseNotes"
 content_hash: "0b797ce0eaaa2720"

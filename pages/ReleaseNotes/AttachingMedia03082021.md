@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Медиафайлы в сообщениях: обновление от 03.08.2021"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/AttachingMedia03082021.html"
 section: "ReleaseNotes"
 content_hash: "4479ea25c395cf83"

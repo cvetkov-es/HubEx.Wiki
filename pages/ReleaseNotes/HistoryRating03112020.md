@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "История обслуживания объекта и рейтинг Заявки: обновление от 03.11.2020"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/HistoryRating03112020.html"
 section: "ReleaseNotes"
 content_hash: "afd14f458f0adc2c"

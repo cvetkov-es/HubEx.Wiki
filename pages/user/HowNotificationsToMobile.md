@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Как проверить возможность получения уведомлений?"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/HowNotificationsToMobile.html"
 section: "user"
 content_hash: "20fb28e982a273f2"

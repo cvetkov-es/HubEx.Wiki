@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Актуальность заявки"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/admin/Actuality.html"
 section: "admin"
 content_hash: "c8c075268f237ee2"

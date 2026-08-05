@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Обновления мобильного приложения HubEx для заказчика"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/CustomerApp.html"
 section: "ReleaseNotes"
 content_hash: "becc964c6af7d18a"

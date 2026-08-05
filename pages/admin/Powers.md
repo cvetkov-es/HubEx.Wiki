@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Администрирование в HubEX: права и возможности администратора, FAQ"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/admin/Powers.html"
 section: "admin"
 content_hash: "d999dc253d857063"

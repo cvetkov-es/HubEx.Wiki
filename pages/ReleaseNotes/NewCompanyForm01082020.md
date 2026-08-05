@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Новая форма Компании: обновление от 01.08.2020"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/NewCompanyForm01082020.html"
 section: "ReleaseNotes"
 content_hash: "17eb0449f82af12b"

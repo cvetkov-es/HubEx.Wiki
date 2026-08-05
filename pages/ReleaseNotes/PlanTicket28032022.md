@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Плановые заявки в календаре на месяц: обновление от 28.03.2022"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/PlanTicket28032022.html"
 section: "ReleaseNotes"
 content_hash: "0b32c08a99ed7e19"

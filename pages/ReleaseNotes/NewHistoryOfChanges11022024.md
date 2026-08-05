@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Новая история изменений заявки: обновление от 11.02.2025"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/NewHistoryOfChanges11022024.html"
 section: "ReleaseNotes"
 content_hash: "591faae3530ebbef"

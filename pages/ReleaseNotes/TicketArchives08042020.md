@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Архивные и удаленные заявки: обновление от 08.04.2020"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/TicketArchives08042020.html"
 section: "ReleaseNotes"
 content_hash: "4c8582a83bc8388c"

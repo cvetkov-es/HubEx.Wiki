@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Фильтр по сотрудникам в календаре: обновление от 17.01.2024"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/FilterInCalendar17012024.html"
 section: "ReleaseNotes"
 content_hash: "b851a8a4112e975b"

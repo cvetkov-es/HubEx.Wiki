@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "История перемещений: обновление от 27.11.2020"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/Geotracking27112020.html"
 section: "ReleaseNotes"
 content_hash: "82f54d909330299b"

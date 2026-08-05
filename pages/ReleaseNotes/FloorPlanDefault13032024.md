@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Расположение Объекта на плане по умолчанию: обновление от 13.03.2024"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/FloorPlanDefault13032024.html"
 section: "ReleaseNotes"
 content_hash: "efe6a29e00d2e4e8"

@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Новые возможности фильтрации: поля-переключатели в заявках, Новые настройки отслеживания местоположения для мобильных сотрудников"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ListOfChanges06102025.html"
 section: "ReleaseNotes"
 content_hash: "1f573de0118671b8"

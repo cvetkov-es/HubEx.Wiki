@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Создание и настройка графиков работы: обновление от 23.05.2024"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/Schedules23052024.html"
 section: "ReleaseNotes"
 content_hash: "07e02741903417f0"

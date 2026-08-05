@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Планы помещений: обновление от 14.07.2022"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/FloorPlan14072022.html"
 section: "ReleaseNotes"
 content_hash: "f8a01d34b06a0958"

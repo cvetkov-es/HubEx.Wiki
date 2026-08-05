@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Массовые действия для списка Заявок: обновление от 31.05.2023"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/GroupActions31052023.html"
 section: "ReleaseNotes"
 content_hash: "d4930e581c45c6cc"

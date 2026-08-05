@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Лента уведомлений в web-приложении: обновление от 05.09.2023"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/NotificationInWeb05092023.html"
 section: "ReleaseNotes"
 content_hash: "5242855c0e27d20d"

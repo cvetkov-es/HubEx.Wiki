@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Новый функционал в Стадиях заявки и Правилах автоназначения: обновление от 04.08.2021"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/StageAndRules04082021.html"
 section: "ReleaseNotes"
 content_hash: "66228664f7558962"

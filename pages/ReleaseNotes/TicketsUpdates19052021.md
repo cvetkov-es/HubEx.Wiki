@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Новый функционал по заявкам: обновление от 19.05.2021"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/TicketsUpdates19052021.html"
 section: "ReleaseNotes"
 content_hash: "554ad34aa4a92868"

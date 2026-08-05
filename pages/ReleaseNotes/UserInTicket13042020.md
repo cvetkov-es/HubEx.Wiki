@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Выбор исполнителя в Заявке: обновление от 13.04.2020"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/UserInTicket13042020.html"
 section: "ReleaseNotes"
 content_hash: "3c03f0cd94606ce0"

@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "HubEx FSM"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/admin/AboutHubEx.html"
 section: "admin"
 content_hash: "d7a611f8246c29b9"

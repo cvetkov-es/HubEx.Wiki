@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "🔧 1. Создание шаблона печатной формы"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/PrintableForms20062025.html"
 section: "ReleaseNotes"
 content_hash: "3ba3c81355cb5b57"

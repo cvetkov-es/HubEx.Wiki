@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Фильтрация заявок по дополнительным полям со списочным форматом: обновление от 28.02.2024"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/FilterAdditionalFields28022024.html"
 section: "ReleaseNotes"
 content_hash: "6841c56208091766"

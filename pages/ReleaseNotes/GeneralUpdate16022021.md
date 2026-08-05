@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Важные доработки (ифоподсказки, копирование жизненного цикла и др.): обновление от 16.02.2021"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/GeneralUpdate16022021.html"
 section: "ReleaseNotes"
 content_hash: "fa0fd039b74824a3"
