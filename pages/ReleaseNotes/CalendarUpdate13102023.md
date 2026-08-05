@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Выполненные и закрытые заявки в календаре: обновление от 13.10.2023"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/CalendarUpdate13102023.html"
 section: "ReleaseNotes"
 content_hash: "9214adb824466c73"

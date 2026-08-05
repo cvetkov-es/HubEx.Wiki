@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Системные справочники в дополнительных полях"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/DirectoriesInAdditionalFields16052025.html"
 section: "ReleaseNotes"
 content_hash: "6e0ab1e2b1e6b9ee"

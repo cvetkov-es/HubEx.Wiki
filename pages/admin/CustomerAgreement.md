@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Согласование с заказчиком в HubEx"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/admin/CustomerAgreement.html"
 section: "admin"
 content_hash: "a04f9f0fa7b158a4"

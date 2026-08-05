@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Заявки на карте: обновление от 19.03.2021"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/TicketsOnMap19032021.html"
 section: "ReleaseNotes"
 content_hash: "9e63af799ad8927f"

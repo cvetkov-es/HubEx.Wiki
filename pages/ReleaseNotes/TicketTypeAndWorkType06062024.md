@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Привязка Видов работ к Типу заявки: обновление от 06.06.2024"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/TicketTypeAndWorkType06062024.html"
 section: "ReleaseNotes"
 content_hash: "05bbed2d1e341627"

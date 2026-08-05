@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Дополнительные поля для компаний и договоров: обновление от 19.12.2023"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/AdditionalFieldsContract19122023.html"
 section: "ReleaseNotes"
 content_hash: "9d30aab70df7c540"

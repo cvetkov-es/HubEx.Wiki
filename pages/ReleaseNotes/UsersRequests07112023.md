@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Cоздание инициатора заявки, история обращений: обновление от 07.11.2023"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/UsersRequests07112023.html"
 section: "ReleaseNotes"
 content_hash: "157352c6ab75e008"

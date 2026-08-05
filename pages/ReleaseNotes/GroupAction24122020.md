@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Массовые действия для списка объектов: обновление от 24.12.2020"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/GroupAction24122020.html"
 section: "ReleaseNotes"
 content_hash: "949934abe5961e7f"

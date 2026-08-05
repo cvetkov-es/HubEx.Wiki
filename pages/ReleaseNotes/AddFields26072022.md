@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Дополнительные поля в списке завок: обновление от 26.07.2022"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/AddFields26072022.html"
 section: "ReleaseNotes"
 content_hash: "8a783af49c439aa2"

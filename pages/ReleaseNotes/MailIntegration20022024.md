@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Интеграция по электронной почте через пересылку: обновление от 20.02.2024"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/MailIntegration20022024.html"
 section: "ReleaseNotes"
 content_hash: "fc67f30e00ed889b"

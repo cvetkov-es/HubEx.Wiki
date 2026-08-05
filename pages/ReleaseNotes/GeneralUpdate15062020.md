@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Улучшения и доработки: обновление от 15.06.2020"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/GeneralUpdate15062020.html"
 section: "ReleaseNotes"
 content_hash: "e0c92e9cba8f7696"

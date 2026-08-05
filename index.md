@@ -116,9 +116,9 @@
 - [InventoryAccounting](pages/user/InventoryAccounting.md) — ⚠ два сценария складского учёта: с внешней системой (1С) и без неё.
 - [SettingsWithMaterials](pages/user/SettingsWithMaterials.md) — доступ к меню «Склады» и право на добавление материалов в выполненную работу по ролям.
 - [Withdrawals](pages/user/Withdrawals.md) — расход материалов по заявке и отчёт по израсходованным материалам.
-- [WarehouseOperations](pages/user/WarehouseOperations.md) — страница-заглушка (реального содержания нет).
+- [Виды складских документов](pages/user/WarehouseOperations.md) — обзор подраздела «Склады → Складские документы»: колонки списка, фильтры, действия по статусам и типы документов (доступно только «Оприходование», остальные в разработке).
 - [Warehouses](pages/user/Warehouses.md) — страница-заглушка (реального содержания нет).
-- [WarehousesGoodsReceipt](pages/user/WarehousesGoodsReceipt.md) — страница-заглушка (реального содержания нет).
+- [Складской документ — Оприходование](pages/user/WarehousesGoodsReceipt.md) — как создать, заполнить и провести документ «Оприходование» (шапка, подбор материалов, статусы, отмена проведения и условия проверки при проведении).
 
 ## Уведомления и каналы
 

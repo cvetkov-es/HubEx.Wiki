@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Шаблоны ответов: обновление от 25.07.2023"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/AnswerTemplate25072023.html"
 section: "ReleaseNotes"
 content_hash: "7ffa4d4a27af1869"

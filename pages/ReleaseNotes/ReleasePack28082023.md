@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Полезные обновления (релевантность, паспорт объекта, экспорт): обновление от 28.08.2023"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ReleasePack28082023.html"
 section: "ReleaseNotes"
 content_hash: "2aa7710894a7f39e"

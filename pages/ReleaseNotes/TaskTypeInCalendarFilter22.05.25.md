@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "📢 Новое в HubEx: фильтр 'Тип заявки' в расписании"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/TaskTypeInCalendarFilter22.05.25.html"
 section: "ReleaseNotes"
 content_hash: "72271c207116eb41"

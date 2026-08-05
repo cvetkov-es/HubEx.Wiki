@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Обновленный раздел Склады: список всех складов"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/WarehousesNew12082025.html"
 section: "ReleaseNotes"
 content_hash: "2e6e087bbe816c9d"

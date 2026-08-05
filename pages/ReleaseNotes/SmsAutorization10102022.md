@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Авторизация в мобильном приложении по sms: обновление от 10.10.2022"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/SmsAutorization10102022.html"
 section: "ReleaseNotes"
 content_hash: "55b412a4b64197ed"

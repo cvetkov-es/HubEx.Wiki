@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Календарь и Заявки на карте: обновление от 17.11.2021"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/CalendarInMap17112021.html"
 section: "ReleaseNotes"
 content_hash: "29e7fd154877d6a4"

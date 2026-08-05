@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Подтверждение пребывания на объекте: обновление от 23.03.2023"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/QRStayMark23022023.html"
 section: "ReleaseNotes"
 content_hash: "e4c19bd710351d86"

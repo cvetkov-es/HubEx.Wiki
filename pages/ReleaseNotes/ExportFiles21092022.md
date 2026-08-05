@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Экспорт файлов из выполненных работ и чек-листов (чеклистов): обновление от 21.09.2022"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ExportFiles21092022.html"
 section: "ReleaseNotes"
 content_hash: "e3140807226f0576"

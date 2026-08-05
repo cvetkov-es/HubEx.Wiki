@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Список объектов и оборудования, история обслуживания объектов"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/ObjectListInMob.html"
 section: "user"
 content_hash: "56cabfb1c2431639"

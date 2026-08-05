@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Видео, поясняющие работу HubEx"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/HubExVids.html"
 section: "user"
 content_hash: "623591401ff424f6"

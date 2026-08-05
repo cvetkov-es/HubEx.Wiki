@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Дочерние заявки: обновление от 21.10.2020"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ChildTicket21102020.html"
 section: "ReleaseNotes"
 content_hash: "6fb435d42574f3c3"

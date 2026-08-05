@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Переход на Яндекс Карты: обновление от 21.11.2024"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/YandexMaps20112024.html"
 section: "ReleaseNotes"
 content_hash: "eee8ad7a3fd0701e"

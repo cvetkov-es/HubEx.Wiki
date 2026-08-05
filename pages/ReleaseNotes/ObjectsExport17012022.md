@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Расширенный экспорт объектов: обновление от 17.01.2022"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ObjectsExport17012022.html"
 section: "ReleaseNotes"
 content_hash: "1a1b93fe578919f7"

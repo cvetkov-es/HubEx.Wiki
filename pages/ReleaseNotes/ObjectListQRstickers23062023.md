@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Список объектов в МП и QR-стикеры для маркировки в web-приложении: обновление от 23.06.2023"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ObjectListQRstickers23062023.html"
 section: "ReleaseNotes"
 content_hash: "dd4952ec03a8cff4"

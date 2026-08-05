@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Отчет по сотрудникам: обновление от 19.05.2021"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/EngineersAnalytic19052021.html"
 section: "ReleaseNotes"
 content_hash: "070436ea1ab26637"

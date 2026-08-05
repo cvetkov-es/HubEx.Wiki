@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Обновления HubEx 14 октября 2025 --"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/UserAddetionFields23102025.html"
 section: "ReleaseNotes"
 content_hash: "20b6120a57478acd"

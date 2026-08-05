@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Навыки"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/admin/Skills.html"
 section: "admin"
 content_hash: "825ce2038ccf5e31"

@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Несколько файлов к одному пункту чек-листа (чеклиста): обновление от 31.08.2022"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/PhotoCheckList31082022.html"
 section: "ReleaseNotes"
 content_hash: "c67a8c18d615f81c"

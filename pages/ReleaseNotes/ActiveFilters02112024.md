@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Расширенный просмотр информации по заявкам: обновление от 02.11.2024"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ActiveFilters02112024.html"
 section: "ReleaseNotes"
 content_hash: "19dec8a82e6dc6ba"

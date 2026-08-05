@@ -1,5 +1,5 @@
 ---
-title: "Руководство пользователя HubEx"
+title: "Быстрые фильтры и массовые действия для списка объектов"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/GroupActions.html"
 section: "user"
 content_hash: "2b214a3921c04659"
