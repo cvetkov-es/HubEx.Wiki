@@ -2,7 +2,7 @@
 title: "Что такое REST API"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/admin/RESTAPI.html"
 section: "admin"
-content_hash: "39aca4ceab766e3e"
+content_hash: "1a3f689a7f42f800"
 ---
 
 ## Что такое REST API и как он работает?
@@ -161,8 +161,8 @@ REST API (Representational State Transfer Application Programming Interface) —
 
 ### Следующие шаги:
 
-* [Начало работы с REST API HubEx](https://wiki.hubex.ru/docs/FAQ/RU/admin/StartIntegrationAPI)
+* [Начало работы с REST API HubEx](StartIntegrationAPI.md)
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

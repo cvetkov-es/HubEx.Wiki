@@ -2,7 +2,7 @@
 title: "Жизненный цикл заявки"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketLifeCycle.html"
 section: "admin"
-content_hash: "60be5a94c8573779"
+content_hash: "59aea2899db92b7c"
 ---
 
 #### Жизненный цикл заявки
@@ -154,4 +154,4 @@ YouTube
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

@@ -2,7 +2,7 @@
 title: "Редактирование данных объекта (оборудования)"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/ObjectEditing.html"
 section: "user"
-content_hash: "74ba824c8154a306"
+content_hash: "98059c91dc357af4"
 ---
 
 #### Редактирование данных объекта (оборудования)
@@ -72,4 +72,4 @@ content_hash: "74ba824c8154a306"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

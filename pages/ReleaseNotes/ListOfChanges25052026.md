@@ -2,7 +2,7 @@
 title: "Множественный поиск по объектам"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ListOfChanges25052026.html"
 section: "ReleaseNotes"
-content_hash: "d307a1e2e01b84bb"
+content_hash: "e783efd61117f9db"
 ---
 
 ### **🔍 Множественный поиск по объектам: теперь можно искать по списку за раз**
@@ -69,4 +69,4 @@ content_hash: "d307a1e2e01b84bb"
 
 ---
 
-[Перейти в меню](http://wiki.hubex.ru)
+[Перейти в меню](https://wiki.hubex.ru/)

@@ -2,7 +2,7 @@
 title: "Расширенный просмотр информации по заявкам: обновление от 02.11.2024"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ActiveFilters02112024.html"
 section: "ReleaseNotes"
-content_hash: "19dec8a82e6dc6ba"
+content_hash: "0933512f6e1342f1"
 ---
 
 #### Расширенный просмотр информации по заявкам: обновление от 02.11.2024
@@ -39,4 +39,4 @@ content_hash: "19dec8a82e6dc6ba"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

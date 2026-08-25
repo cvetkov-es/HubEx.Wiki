@@ -2,7 +2,7 @@
 title: "Работа с заявками в клиентском портале"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/CustomerWeb.html"
 section: "user"
-content_hash: "840dec596d2834a2"
+content_hash: "ca7dff9e48435e5e"
 ---
 
 #### Работа с заявками в клиентском портале
@@ -120,4 +120,4 @@ sms-сообщения на номер мобильного телефона.
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

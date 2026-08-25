@@ -2,7 +2,7 @@
 title: "Стадии заявки"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/admin/StageType.html"
 section: "admin"
-content_hash: "7f171bae7e49f179"
+content_hash: "858c37942ff900e5"
 ---
 
 #### Стадии заявки
@@ -195,4 +195,4 @@ content_hash: "7f171bae7e49f179"
 * [Жизненный цикл заявки](TicketLifeCycle.md)
 * [Согласование заявок: линейное и параллельное согласование](TicketsAgreement.md)
   *\_\_*
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

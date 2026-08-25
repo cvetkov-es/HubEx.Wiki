@@ -2,7 +2,7 @@
 title: "Планы помещений: обновление от 14.07.2022"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/FloorPlan14072022.html"
 section: "ReleaseNotes"
-content_hash: "f8a01d34b06a0958"
+content_hash: "4c5cde6e134b518c"
 ---
 
 #### Планы помещений: обновление от 14.07.2022
@@ -41,4 +41,4 @@ content_hash: "f8a01d34b06a0958"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

@@ -2,7 +2,7 @@
 title: "Вход в мобильное приложение Заказчика и Сотрудника"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/EnterToMob.html"
 section: "user"
-content_hash: "c100549539011147"
+content_hash: "ab52caf7fdd68cda"
 ---
 
 #### Вход в мобильное приложение Заказчика и Сотрудника
@@ -122,4 +122,4 @@ YouTube
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

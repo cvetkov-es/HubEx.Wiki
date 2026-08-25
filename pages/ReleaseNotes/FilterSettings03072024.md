@@ -2,7 +2,7 @@
 title: "Кастомная настройка отображения фильтров в Заявках: обновление от 03.07.2024"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/FilterSettings03072024.html"
 section: "ReleaseNotes"
-content_hash: "325c99d1635adb5e"
+content_hash: "8b9e04f280e3ede0"
 ---
 
 #### Кастомная настройка отображения фильтров в Заявках: обновление от 03.07.2024
@@ -48,4 +48,4 @@ content_hash: "325c99d1635adb5e"
 
 </body>
 \_\_\_
-- [Перейти в меню](http://wiki.hubex.ru)
+- [Перейти в меню](/)

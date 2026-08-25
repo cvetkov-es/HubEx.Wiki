@@ -2,7 +2,7 @@
 title: "Редактор чек-листов удобный выбор объектов с поддержкой иерархии, Плагины в верхнем меню"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ListOfChanges02032026.html"
 section: "ReleaseNotes"
-content_hash: "dc7561716faf2b22"
+content_hash: "9eeda4c40ae99e65"
 ---
 
 ### **✅ Редактор чек-листов удобный выбор объектов с поддержкой иерархии**
@@ -70,4 +70,4 @@ content_hash: "dc7561716faf2b22"
 
 ---
 
-[Перейти в меню](http://wiki.hubex.ru)
+[Перейти в меню](https://wiki.hubex.ru/)

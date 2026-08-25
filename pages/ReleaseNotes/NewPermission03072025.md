@@ -2,7 +2,7 @@
 title: "Заявки, когда-либо назначенные на сотрудников моей компании"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/NewPermission03072025.html"
 section: "ReleaseNotes"
-content_hash: "2849003989e5dc84"
+content_hash: "5264588004008d62"
 ---
 
 ## Новое полномочие для доступности заявок - Заявки, когда-либо назначенные на сотрудников моей компании
@@ -46,4 +46,4 @@ content_hash: "2849003989e5dc84"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

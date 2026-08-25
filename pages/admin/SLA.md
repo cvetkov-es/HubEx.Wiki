@@ -2,7 +2,7 @@
 title: "SLA - Правила расчета крайнего срока закрытия заявки"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/admin/SLA.html"
 section: "admin"
-content_hash: "dfbcb2e72b01bd7b"
+content_hash: "b9a8d4704506cd88"
 ---
 
 #### SLA - Правила расчета крайнего срока закрытия заявки
@@ -105,4 +105,4 @@ YouTube
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

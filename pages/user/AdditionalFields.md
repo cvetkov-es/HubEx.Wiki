@@ -2,7 +2,7 @@
 title: "Дополнительные поля"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/AdditionalFields.html"
 section: "user"
-content_hash: "3c75e31d9afe3092"
+content_hash: "cd6676552abc1b22"
 ---
 
 # Дополнительные поля
@@ -207,4 +207,4 @@ YouTube
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

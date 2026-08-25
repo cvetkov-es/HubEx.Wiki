@@ -2,7 +2,7 @@
 title: "Дочерние заявки: обновление от 21.10.2020"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ChildTicket21102020.html"
 section: "ReleaseNotes"
-content_hash: "6fb435d42574f3c3"
+content_hash: "0e9b22d4c2a3587d"
 ---
 
 #### Дочерние заявки: обновление от 21.10.2020
@@ -37,4 +37,4 @@ content_hash: "6fb435d42574f3c3"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

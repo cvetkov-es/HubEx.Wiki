@@ -2,7 +2,7 @@
 title: "Множественный поиск по дополнительным полям Объектов в веб-версии HubEx, Упрощённый вход после создания пароля в WEB"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ListOfChanges06042026.html"
 section: "ReleaseNotes"
-content_hash: "43825e1388aa8edc"
+content_hash: "069819b3a4a01718"
 ---
 
 ### **🔍 Множественный поиск по дополнительным полям объектов**
@@ -119,4 +119,4 @@ SN-554C3
 
 ---
 
-[Перейти в меню](http://wiki.hubex.ru)
+[Перейти в меню](https://wiki.hubex.ru/)

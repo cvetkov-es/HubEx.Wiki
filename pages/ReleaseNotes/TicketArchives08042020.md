@@ -2,7 +2,7 @@
 title: "Архивные и удаленные заявки: обновление от 08.04.2020"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/TicketArchives08042020.html"
 section: "ReleaseNotes"
-content_hash: "4c8582a83bc8388c"
+content_hash: "081fecece1fb57d3"
 ---
 
 #### Архивные и удаленные заявки: обновление от 08.04.2020
@@ -25,4 +25,4 @@ content_hash: "4c8582a83bc8388c"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

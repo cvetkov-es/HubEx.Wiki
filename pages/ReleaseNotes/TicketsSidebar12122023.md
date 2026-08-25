@@ -2,7 +2,7 @@
 title: "Боковая панель для работы с Заявкой: обновление от 12.12.2023"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/TicketsSidebar12122023.html"
 section: "ReleaseNotes"
-content_hash: "175782874b49b2db"
+content_hash: "3843acb7742a9995"
 ---
 
 #### Боковая панель для работы с Заявкой: обновление от 12.12.2023
@@ -59,4 +59,4 @@ content_hash: "175782874b49b2db"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

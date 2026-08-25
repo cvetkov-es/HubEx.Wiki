@@ -2,7 +2,7 @@
 title: "Мобильное оборудование, заявка по мобильному оборудованию"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/MobileObjects.html"
 section: "user"
-content_hash: "a558f042c6ff573a"
+content_hash: "4ebadf459ca5cf3c"
 ---
 
 #### Мобильное оборудование: заявка по мобильному оборудованию
@@ -58,4 +58,4 @@ content_hash: "a558f042c6ff573a"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

@@ -2,7 +2,7 @@
 title: "🔧 1. Создание шаблона печатной формы"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/PrintableForms20062025.html"
 section: "ReleaseNotes"
-content_hash: "3ba3c81355cb5b57"
+content_hash: "1b39d1a144c9c828"
 ---
 
 #### Создание печатных форм пользователем: обновление от 20.06.2025
@@ -108,4 +108,4 @@ content_hash: "3ba3c81355cb5b57"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

@@ -2,7 +2,7 @@
 title: "Чем роль отличается от должности?"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/RoleVSPosition.html"
 section: "user"
-content_hash: "3a36e57f49837221"
+content_hash: "c57990b38c4f0059"
 ---
 
 #### Чем роль отличается от должности?
@@ -60,4 +60,4 @@ content_hash: "3a36e57f49837221"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

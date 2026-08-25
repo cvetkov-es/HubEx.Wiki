@@ -2,7 +2,7 @@
 title: "Отображение Заявок и Сотрудников на карте"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/TicketsOnMap.html"
 section: "user"
-content_hash: "0c9519110a54a68d"
+content_hash: "2143649efd25ce2f"
 ---
 
 #### Заявки и сотрудники на карте
@@ -217,4 +217,4 @@ YouTube
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

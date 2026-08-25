@@ -2,7 +2,7 @@
 title: "История перемещений (геотрекинг)"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/Geotracking.html"
 section: "user"
-content_hash: "c03376b632cdfa04"
+content_hash: "70d0f124d02851cb"
 ---
 
 #### История перемещений
@@ -129,4 +129,4 @@ YouTube
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

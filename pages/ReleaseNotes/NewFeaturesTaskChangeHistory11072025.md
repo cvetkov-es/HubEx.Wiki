@@ -2,7 +2,7 @@
 title: "Вкладка Договоры в объекте, Массовый перевод заявок по стадиям, Иерархия в истории обслуживания объекта"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/NewFeaturesTaskChangeHistory11072025.html"
 section: "ReleaseNotes"
-content_hash: "5a04623c7e9310e1"
+content_hash: "35df38a86a531c28"
 ---
 
 ## 🚀 Улучшенная история изменений с геоданными и новыми возможностями от 11.07.2025
@@ -64,4 +64,4 @@ content_hash: "5a04623c7e9310e1"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

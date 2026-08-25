@@ -2,7 +2,7 @@
 title: "Лента уведомлений в мобильном приложении"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/NotificationInMob.html"
 section: "user"
-content_hash: "a98cea3a60ebeb54"
+content_hash: "e8b99caab812f09a"
 ---
 
 #### Лента уведомлений в мобильном приложении
@@ -47,4 +47,4 @@ content_hash: "a98cea3a60ebeb54"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

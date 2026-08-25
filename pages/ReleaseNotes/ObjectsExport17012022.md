@@ -2,7 +2,7 @@
 title: "Расширенный экспорт объектов: обновление от 17.01.2022"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ObjectsExport17012022.html"
 section: "ReleaseNotes"
-content_hash: "1a1b93fe578919f7"
+content_hash: "9cc5db2fc543fcb2"
 ---
 
 #### Расширенный экспорт объектов: обновление от 17.01.2022
@@ -50,4 +50,4 @@ content_hash: "1a1b93fe578919f7"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

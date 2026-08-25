@@ -2,7 +2,7 @@
 title: "Создание паспорта объекта с возможностью саморегистрации"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/HowToMakePassport.html"
 section: "user"
-content_hash: "ef419f8ac688cffb"
+content_hash: "07ad67fe2c3b74a8"
 ---
 
 #### Создание паспорта объекта с возможностью саморегистрации
@@ -91,4 +91,4 @@ QR-код и шаблон заявки вы можете найти на вкл�
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

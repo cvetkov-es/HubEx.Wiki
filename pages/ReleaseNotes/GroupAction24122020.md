@@ -2,7 +2,7 @@
 title: "Массовые действия для списка объектов: обновление от 24.12.2020"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/GroupAction24122020.html"
 section: "ReleaseNotes"
-content_hash: "949934abe5961e7f"
+content_hash: "fc194ae4e8121f39"
 ---
 
 #### Массовые действия для списка объектов: обновление от 24.12.2020
@@ -31,4 +31,4 @@ content_hash: "949934abe5961e7f"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

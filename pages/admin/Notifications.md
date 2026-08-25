@@ -2,7 +2,7 @@
 title: "Настройка оповещений"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/admin/Notifications.html"
 section: "admin"
-content_hash: "396e932bf1e777ea"
+content_hash: "19585f152717c9b9"
 ---
 
 #### Настройка оповещений
@@ -158,4 +158,4 @@ YouTube
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

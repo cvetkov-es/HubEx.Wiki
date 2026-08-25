@@ -2,7 +2,7 @@
 title: "Сервисный акт"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/PrintedFormAct.html"
 section: "user"
-content_hash: "977ed550a1d805d2"
+content_hash: "e898329eccb6d276"
 ---
 
 #### Сервисный акт
@@ -123,4 +123,4 @@ YouTube
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

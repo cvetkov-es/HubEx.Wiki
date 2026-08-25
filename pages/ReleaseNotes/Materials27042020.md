@@ -2,7 +2,7 @@
 title: "Учет материалов в Заявке: обновление от 27.04.2020"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/Materials27042020.html"
 section: "ReleaseNotes"
-content_hash: "206569db91d5bbe7"
+content_hash: "9dbb0674cadcdbf7"
 ---
 
 #### Учет материалов в Заявке: обновление от 27.04.2020
@@ -65,4 +65,4 @@ content_hash: "206569db91d5bbe7"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

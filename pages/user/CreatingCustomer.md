@@ -2,7 +2,7 @@
 title: "Создание заказчика"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingCustomer.html"
 section: "user"
-content_hash: "8b50ad9747467bbe"
+content_hash: "48b38c0fac273447"
 ---
 
 # Создание заказчика
@@ -149,4 +149,4 @@ YouTube
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

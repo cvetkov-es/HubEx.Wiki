@@ -2,7 +2,7 @@
 title: "Выбор вида работ в заявке"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/ChoiceWorkType.html"
 section: "user"
-content_hash: "601d04bd09f41677"
+content_hash: "e3834930da8a14a5"
 ---
 
 #### Выбор вида работ в заявке
@@ -66,4 +66,4 @@ content_hash: "601d04bd09f41677"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

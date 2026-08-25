@@ -2,7 +2,7 @@
 title: "Экспорт файлов из выполненных работ и чек-листов (чеклистов): обновление от 21.09.2022"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ExportFiles21092022.html"
 section: "ReleaseNotes"
-content_hash: "e3140807226f0576"
+content_hash: "ef81a9369ad24ff4"
 ---
 
 #### Экспорт файлов из выполненных работ и чек-листов: обновление от 21.09.2022
@@ -27,4 +27,4 @@ content_hash: "e3140807226f0576"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

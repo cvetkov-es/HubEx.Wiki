@@ -2,7 +2,7 @@
 title: "Инициатор заявки. Создание инициатора, история обращений"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/UsersRequests.html"
 section: "user"
-content_hash: "944fc724567b2813"
+content_hash: "57ed193def38224e"
 ---
 
 #### Инициатор заявки: создание инициатора, история обращений
@@ -119,4 +119,4 @@ content_hash: "944fc724567b2813"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

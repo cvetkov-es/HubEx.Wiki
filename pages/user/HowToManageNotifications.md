@@ -2,7 +2,7 @@
 title: "Как настроить уведомление на почту о выполнении заявки?"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/HowToManageNotifications.html"
 section: "user"
-content_hash: "aaa4aceb2d589264"
+content_hash: "ef580cae5321a209"
 ---
 
 #### Как настроить уведомление на почту о выполнении заявки?
@@ -35,4 +35,4 @@ content_hash: "aaa4aceb2d589264"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

@@ -2,7 +2,7 @@
 title: "Дочерние заявки"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/ChildTicket.html"
 section: "user"
-content_hash: "9fc3f077e4511063"
+content_hash: "8c1ca48f3294d59d"
 ---
 
 #### Дочерние заявки
@@ -108,4 +108,4 @@ content_hash: "9fc3f077e4511063"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

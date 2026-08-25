@@ -2,7 +2,7 @@
 title: "Работа с самозанятыми в HubEx: обновление от 21.02.2022"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/SelfEmployed21022022.html"
 section: "ReleaseNotes"
-content_hash: "294c078d55f47c42"
+content_hash: "be5f9a520d5e40b5"
 ---
 
 #### Работа с самозанятыми в HubEx: обновление от 21.02.2022
@@ -52,4 +52,4 @@ content_hash: "294c078d55f47c42"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

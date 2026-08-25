@@ -2,7 +2,7 @@
 title: "Работа с договорами: обновление от 12.08.2024"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/Contracts12082024.html"
 section: "ReleaseNotes"
-content_hash: "76344e560a36e994"
+content_hash: "36092abb5f4c8714"
 ---
 
 #### Обновление в работе с договорами: обновление от 12.08.2024
@@ -57,4 +57,4 @@ content_hash: "76344e560a36e994"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

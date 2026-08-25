@@ -2,7 +2,7 @@
 title: "Выбор исполнителя в Заявке: обновление от 13.04.2020"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/UserInTicket13042020.html"
 section: "ReleaseNotes"
-content_hash: "3c03f0cd94606ce0"
+content_hash: "2f1e4f4a7100bda4"
 ---
 
 #### Выбор исполнителя в Заявке: обновление от 13.04.2020
@@ -36,4 +36,4 @@ content_hash: "3c03f0cd94606ce0"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

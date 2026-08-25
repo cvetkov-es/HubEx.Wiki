@@ -2,7 +2,7 @@
 title: "Работа с заявками в мобильном приложении HubEx заказчик"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/CustomerApp.html"
 section: "user"
-content_hash: "bffd0a4d2ec567ee"
+content_hash: "52eb57e6a12d2644"
 ---
 
 #### Работа с заявками в мобильном приложении HubEx заказчик: заявки, акты, оценка исполнителей
@@ -231,4 +231,4 @@ sms-сообщения на номер мобильного телефона.
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

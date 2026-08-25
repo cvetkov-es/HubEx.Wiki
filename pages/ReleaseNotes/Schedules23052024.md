@@ -2,7 +2,7 @@
 title: "Создание и настройка графиков работы: обновление от 23.05.2024"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/Schedules23052024.html"
 section: "ReleaseNotes"
-content_hash: "07e02741903417f0"
+content_hash: "0486fc71028b69fc"
 ---
 
 #### Создание и настройка графиков работы: обновление от 23.05.2024
@@ -60,4 +60,4 @@ content_hash: "07e02741903417f0"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

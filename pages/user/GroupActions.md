@@ -2,7 +2,7 @@
 title: "Быстрые фильтры и массовые действия для списка объектов"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/GroupActions.html"
 section: "user"
-content_hash: "2b214a3921c04659"
+content_hash: "00a174117d9ee6d9"
 ---
 
 #### Быстрые фильтры и массовые действия для списка объектов
@@ -157,4 +157,4 @@ content_hash: "2b214a3921c04659"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

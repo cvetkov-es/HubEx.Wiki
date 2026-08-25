@@ -2,7 +2,7 @@
 title: "История изменений заявки"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/HistoryOfChanges.html"
 section: "user"
-content_hash: "da0723c3a5e27ac1"
+content_hash: "12f291a259573b99"
 ---
 
 #### История изменений заявки
@@ -37,4 +37,4 @@ content_hash: "da0723c3a5e27ac1"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

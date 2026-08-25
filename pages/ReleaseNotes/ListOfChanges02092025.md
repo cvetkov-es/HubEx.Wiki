@@ -2,7 +2,7 @@
 title: "Системные справочники в дополнительных полях для Договоров и Компаний, Управление материалами в HubEx"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ListOfChanges02092025.html"
 section: "ReleaseNotes"
-content_hash: "21725ca58b4d9551"
+content_hash: "905543852566b086"
 ---
 
 ## Обновление Системные справочники в дополнительных полях для Договоров и Компаний, Управление материалами в HubEx от 02.09.2025
@@ -127,4 +127,4 @@ content_hash: "21725ca58b4d9551"
 
 ---
 
-[Перейти в меню](http://wiki.hubex.ru)
+[Перейти в меню](https://wiki.hubex.ru/)

@@ -2,7 +2,7 @@
 title: "Складской учет в HubEx. Два сценария управления складом"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/InventoryAccounting.html"
 section: "user"
-content_hash: "b9f715de13b570b0"
+content_hash: "0781205593657a85"
 ---
 
 #### Складской учет в HubEx: два сценария управления складом
@@ -101,4 +101,4 @@ content_hash: "b9f715de13b570b0"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

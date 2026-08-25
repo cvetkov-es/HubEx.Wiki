@@ -2,7 +2,7 @@
 title: "Интеграция с Битрикс24 через сервис Albato"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/admin/Integration.html"
 section: "admin"
-content_hash: "d25806573d43f612"
+content_hash: "55376789bb626f0c"
 ---
 
 #### Интеграция с Битрикс24 через сервис Albato
@@ -137,4 +137,4 @@ Albato — это платформа, с которой можно легко с
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

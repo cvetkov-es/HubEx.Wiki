@@ -2,7 +2,7 @@
 title: "Назначение нескольких исполнителей на заявку: обновление от 01.02.2023"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/Multiengineers01022023.html"
 section: "ReleaseNotes"
-content_hash: "c7aec75c69a0702f"
+content_hash: "8568dfa9d8f543e6"
 ---
 
 #### Назначение нескольких исполнителей на заявку: обновление от 01.02.2023
@@ -47,4 +47,4 @@ content_hash: "c7aec75c69a0702f"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

@@ -2,7 +2,7 @@
 title: "Создание и настройка недельных графиков работы: обновление от 13.02.2024"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/Schedules13022024.html"
 section: "ReleaseNotes"
-content_hash: "09ae38b4a7d3ae31"
+content_hash: "0f993db1e0907b1c"
 ---
 
 #### Создание и настройка недельных графиков работы: обновление от 13.02.2024
@@ -45,4 +45,4 @@ content_hash: "09ae38b4a7d3ae31"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

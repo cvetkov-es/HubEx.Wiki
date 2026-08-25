@@ -2,7 +2,7 @@
 title: "Стоимости"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/Prices.html"
 section: "user"
-content_hash: "b73b67d94923e1c7"
+content_hash: "761f99d2e977a681"
 ---
 
 # Стоимости
@@ -221,4 +221,4 @@ FSM система HubEx фокусируется на планировании,
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

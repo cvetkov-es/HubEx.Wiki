@@ -2,7 +2,7 @@
 title: "Интеграция с Telegram"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/admin/TelegramIntegration.html"
 section: "admin"
-content_hash: "58a530be77e99e55"
+content_hash: "f697ca8c24351f50"
 ---
 
 #### Интеграция с Telegram
@@ -335,4 +335,4 @@ Telegram. В рамках текущей статьи будет рассмот�
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

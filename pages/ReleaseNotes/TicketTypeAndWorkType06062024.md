@@ -2,7 +2,7 @@
 title: "Привязка Видов работ к Типу заявки: обновление от 06.06.2024"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/TicketTypeAndWorkType06062024.html"
 section: "ReleaseNotes"
-content_hash: "05bbed2d1e341627"
+content_hash: "f2c1b1d5958301c1"
 ---
 
 #### Привязка Видов работ к Типу заявки: обновление от 06.06.2024
@@ -32,4 +32,4 @@ content_hash: "05bbed2d1e341627"
 
 Предложения по доработкам в системе и сообщения об ошибках просим отправлять к нам в "чат с поддержкой" в веб-приложении или на почту [help@hubex.ru](mailto:help@hubex.ru).
 
-[Перейти в меню](http://wiki.hubex.ru)
+[Перейти в меню](https://wiki.hubex.ru/)

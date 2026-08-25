@@ -2,7 +2,7 @@
 title: "Cоздание инициатора заявки, история обращений: обновление от 07.11.2023"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/UsersRequests07112023.html"
 section: "ReleaseNotes"
-content_hash: "157352c6ab75e008"
+content_hash: "7b70b07647a0422c"
 ---
 
 #### Cоздание инициатора заявки, история обращений: обновление от 07.11.2023
@@ -47,4 +47,4 @@ content_hash: "157352c6ab75e008"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

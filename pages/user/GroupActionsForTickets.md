@@ -2,7 +2,7 @@
 title: "Массовые действия для списка заявок"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/GroupActionsForTickets.html"
 section: "user"
-content_hash: "11d3239fd1bc6139"
+content_hash: "0118e6f33cf32ccb"
 ---
 
 #### Массовые действия для списка заявок
@@ -111,4 +111,4 @@ content_hash: "11d3239fd1bc6139"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

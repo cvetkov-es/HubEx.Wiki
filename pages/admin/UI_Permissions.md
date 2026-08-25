@@ -2,7 +2,7 @@
 title: "UI полномочия"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/admin/UI_Permissions.html"
 section: "admin"
-content_hash: "6e7c8a02d07c857b"
+content_hash: "e96491cc67ec2e4f"
 ---
 
 #### UI полномочия
@@ -25,4 +25,4 @@ UI полномочия - настраиваемые полномочия, от�
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

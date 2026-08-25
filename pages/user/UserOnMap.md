@@ -2,7 +2,7 @@
 title: "Где увидеть местоположение сотрудника (исполнителя)?"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/UserOnMap.html"
 section: "user"
-content_hash: "9683a195c8fd883d"
+content_hash: "e8b1aead1754c4f8"
 ---
 
 #### Где увидеть местоположение сотрудника (исполнителя)?
@@ -47,4 +47,4 @@ content_hash: "9683a195c8fd883d"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

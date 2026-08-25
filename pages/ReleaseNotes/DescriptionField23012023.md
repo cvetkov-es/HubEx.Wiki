@@ -2,7 +2,7 @@
 title: "Форматирование поля Описание заявки: обновление от 23.01.2023"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/DescriptionField23012023.html"
 section: "ReleaseNotes"
-content_hash: "5f1be2bc0853d4a0"
+content_hash: "57f27fb5255b03b7"
 ---
 
 #### Форматирование поля Описание заявки: обновление от 23.01.2023
@@ -39,4 +39,4 @@ content_hash: "5f1be2bc0853d4a0"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

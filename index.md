@@ -25,8 +25,8 @@
 - [ElectedTicket](pages/user/ElectedTicket.md) — копирование и удаление заявок, поиск удалённых, избранное.
 - [AcceptanceTicket](pages/user/AcceptanceTicket.md) — самостоятельное назначение заявки исполнителем из общего списка.
 - [SeveralEngineers](pages/user/SeveralEngineers.md) — три способа назначить нескольких исполнителей на заявку.
-- [PlannedTickets](pages/user/PlannedTickets.md) — создание и периодичность плановых заявок для регулярного обслуживания.
-- [PlannedTicketsSchedule](pages/user/PlannedTicketsSchedule.md) — график обслуживания объектов как табличное представление плановых заявок.
+- [PlannedTickets](pages/user/PlannedTickets.md) — создание плановой заявки в Планировщике работ: подбор объектов по виду работ, частота и ограничение повторений, автоназначение исполнителя и отображение в календаре.
+- [PlannedTicketsSchedule](pages/user/PlannedTicketsSchedule.md) — табличный отчёт по плановым заявкам в разрезе объектов и периода: настройка параметров, группировка по дням/неделям/месяцам, печать и экспорт.
 - [CustomerAgreement](pages/admin/CustomerAgreement.md) — настройка согласования заявки с заказчиком: стадии, статусы, оповещения.
 - [ChoiceWorkType](pages/user/ChoiceWorkType.md) — от чего зависит выбор вида работ в заявке.
 - [Filters](pages/user/Filters.md) — режимы списка заявок, фильтры, быстрые фильтры, поиск.
@@ -46,11 +46,11 @@
 - [PlacesVSObjectsClass](pages/admin/PlacesVSObjectsClass.md) — ⚠ разница между Классом оборудования и Участком.
 - [CreatingObjects](pages/user/CreatingObjects.md) — создание карточки объекта/оборудования: поля, дочерние объекты, QR-коды, история обслуживания.
 - [CreatingObjTemplates](pages/user/CreatingObjTemplates.md) — создание шаблона объекта/оборудования, приёмка и маркировка через мобильное приложение по QR.
-- [ObjectEditing](pages/user/ObjectEditing.md) — три способа редактирования данных объекта в мобильном приложении.
-- [ChangeOfObjectType](pages/user/ChangeOfObjectType.md) — изменение типа оборудования в карточке объекта.
-- [TheDifferenceBetweenObjectTypes](pages/user/TheDifferenceBetweenObjectTypes.md) — ⚠ иерархия объектов: родительский объект с адресом vs дочерний без адреса.
-- [MobileObjects](pages/user/MobileObjects.md) — мобильное оборудование (изменяемый адрес) и обновление адреса через заявку.
-- [ObjectListInMob](pages/user/ObjectListInMob.md) — список объектов в мобильном приложении, паспорт объекта, создание заявки из паспорта.
+- [ObjectEditing](pages/user/ObjectEditing.md) — три способа редактирования паспорта объекта в мобильном приложении (по QR-коду, из списка Объекты|Оборудование, из заявки) и настройка права роли на изменение данных объекта.
+- [ChangeOfObjectType](pages/user/ChangeOfObjectType.md) — изменение типа оборудования через снятие объекта с публикации или массовое редактирование списка объектов.
+- [TheDifferenceBetweenObjectTypes](pages/user/TheDifferenceBetweenObjectTypes.md) — ⚠ ошибка «необходимо выбрать родительский объект» при создании оборудования: тип «Объект» требует адреса и служит родителем, тип «Оборудование» наследует адрес как дочерний.
+- [MobileObjects](pages/user/MobileObjects.md) — мобильное оборудование с динамичным адресом: настройка типа и флажка в карточке объекта, смена адреса через заявку с автосохранением в объект и просмотр истории перемещений через экспорт заявок.
+- [ObjectListInMob](pages/user/ObjectListInMob.md) — список объектов и оборудования в мобильном приложении HubEx исполнитель: паспорт объекта, история обслуживания и создание заявки из паспорта.
 - [DeletedObjects](pages/user/DeletedObjects.md) — способы удаления/блокировки компаний, объектов, заявок и почему удаление всегда «мягкое».
 - [FloorPlan](pages/user/FloorPlan.md) — план помещения объекта и указание расположения объекта на плане при подаче заявки.
 - [HowToMakePassport](pages/user/HowToMakePassport.md) — создание паспорта объекта через привязку QR-кода к объекту и шаблону заявки.
@@ -70,7 +70,7 @@
 
 - [Roles](pages/admin/Roles.md) — сущность «Роль», базовые роли (Заказчик, Сервисный специалист, Диспетчер), доступ по участкам и полномочиям.
 - [Powers](pages/admin/Powers.md) — тематические блоки полномочий ролей в консоли администратора.
-- [UI_Permissions](pages/admin/UI_Permissions.md) — раздел UI-полномочий для элементов интерфейса.
+- [UI полномочия](pages/admin/UI_Permissions.md) — что такое настраиваемые UI-полномочия, где смотреть список преднастроенных и как создать новое через раздел «Администрирование».
 - [Places](pages/admin/Places.md) — сущность «Участок»: классификация объектов, сотрудников, заказчиков и типов заявок.
 - [Skills](pages/admin/Skills.md) — сущность «Навык»: классификация объектов и сотрудников для автоназначения.
 - [ServiceUsers](pages/admin/ServiceUsers.md) — служебные учётные записи: Пользователь API и Анонимный пользователь.
@@ -78,12 +78,12 @@
 - [SuperAndUsualUser](pages/user/SuperAndUsualUser.md) — ⚠ разница между «Системным администратором» без ограничений и обычной учётной записью владельца тенанта.
 - [EngineerVSCustomer](pages/user/EngineerVSCustomer.md) — ⚠ разница прав и возможностей ролей Сотрудник и Заказчик.
 - [EnterToMob](pages/user/EnterToMob.md) — регистрация и вход сотрудника/заказчика в мобильные приложения.
-- [SelfRegister](pages/user/SelfRegister.md) — подача заявки по QR без приложения и самостоятельная регистрация заказчика.
+- [SelfRegister](pages/user/SelfRegister.md) — подача заявки по QR-коду без приложения, самостоятельная регистрация заказчика и включение служебной учётной записи «Анонимный пользователь».
 - [HowToSendInvitation](pages/user/HowToSendInvitation.md) — автоотправка приглашения (email/sms) новому сотруднику или заказчику.
 - [ViewRestriction](pages/user/ViewRestriction.md) — настройка доступа по ролям к файлам, прикреплённым к заявке или объекту.
 - [WorkSchedule](pages/admin/WorkSchedule.md) — графики работы сотрудников (недельный, сменный) для автоназначения.
 - [Schedule](pages/user/Schedule.md) — графики работы: типовые графики, недельные/сменные, привязка к сотрудникам и объектам, «Я на смене».
-- [OnDuty](pages/user/OnDuty.md) — индивидуальный график и функционал «На смене» (начало/завершение смены).
+- [OnDuty](pages/user/OnDuty.md) — индивидуальный график и функционал «На смене»: редактирование смен в web и мобильном приложении исполнителя, начало и завершение смены.
 
 ## SLA и критичности
 
@@ -107,15 +107,15 @@
 - [Prices](pages/user/Prices.md) — стоимости в HubEx: ставка сотрудников, стоимость видов работ и материалов, стоимость заявки, расчёт зарплаты.
 - [Rating](pages/user/Rating.md) — система оценки заявок и рейтинга сотрудников, видимость по ролям и стадиям.
 - [OfflineMode](pages/user/OfflineMode.md) — офлайн-режим мобильного приложения исполнителя: заявки, работы, чек-листы, одна стадия перехода.
-- [TicketWithMaterials](pages/user/TicketWithMaterials.md) — вкладка «Необходимые материалы» в заявке (рекомендация без списания).
+- [TicketWithMaterials](pages/user/TicketWithMaterials.md) — вкладка «Необходимые материалы» в заявке: рекомендация материалов без списания со склада, просмотр в мобильном приложении инженера и настройка видимости вкладки по ролям и стадиям.
 
 ## Склад
 
-- [Materials](pages/user/Materials.md) — загрузка материалов и создание складов через Excel-импорт, изменение остатков.
-- [MaterialsNew](pages/user/MaterialsNew.md) — расширенная версия статьи про склады и материалы, идея «рюкзака» сотрудника.
+- [Materials](pages/user/Materials.md) — загрузка материалов и складов Excel-импортом и вручную, изменение остатков, привязка складов к сотрудникам и просмотр в мобильном приложении.
+- [MaterialsNew](pages/user/MaterialsNew.md) — склады и материалы: импорт/экспорт номенклатуры шаблоном, расход в заявках из web и мобильного приложения, отчёт «Склады — Расход», роли и доступные склады, сценарии учёта с 1С и без неё, включая «рюкзак» сотрудника.
 - [InventoryAccounting](pages/user/InventoryAccounting.md) — ⚠ два сценария складского учёта: с внешней системой (1С) и без неё.
 - [SettingsWithMaterials](pages/user/SettingsWithMaterials.md) — доступ к меню «Склады» и право на добавление материалов в выполненную работу по ролям.
-- [Withdrawals](pages/user/Withdrawals.md) — расход материалов по заявке и отчёт по израсходованным материалам.
+- [Withdrawals](pages/user/Withdrawals.md) — расход материалов по заявке в web- и мобильном приложении исполнителя и отчёт по расходу в меню «Склады».
 - [Виды складских документов](pages/user/WarehouseOperations.md) — обзор подраздела «Склады → Складские документы»: колонки списка, фильтры, действия по статусам и типы документов (доступно только «Оприходование», остальные в разработке).
 - [Warehouses](pages/user/Warehouses.md) — страница-заглушка (реального содержания нет).
 - [Складской документ — Оприходование](pages/user/WarehousesGoodsReceipt.md) — как создать, заполнить и провести документ «Оприходование» (шапка, подбор материалов, статусы, отмена проведения и условия проверки при проведении).
@@ -123,11 +123,11 @@
 ## Уведомления и каналы
 
 - [Notifications](pages/admin/Notifications.md) — настройка оповещений: правила выбора получателя и триггеры (push/email).
-- [NotificationInMob](pages/user/NotificationInMob.md) — лента уведомлений в мобильном приложении исполнителя.
-- [NotificationInWeb](pages/user/NotificationInWeb.md) — лента уведомлений в web-приложении для руководителей и диспетчеров.
+- [NotificationInMob](pages/user/NotificationInMob.md) — лента уведомлений в мобильных приложениях исполнителя и заказчика: события по заявкам, отметка прочитанного, кнопка «Прочитать все» и фильтр непрочитанных.
+- [NotificationInWeb](pages/user/NotificationInWeb.md) — лента уведомлений в web-приложении: колокольчик, события по заявкам, отметка о прочтении и фильтр непрочитанных.
 - [HowToManageNotifications](pages/user/HowToManageNotifications.md) — настройка email-уведомления о выполнении заявки через копирование триггера.
 - [HowNotificationsToMobile](pages/user/HowNotificationsToMobile.md) — проверка настроек уведомлений на мобильном устройстве.
-- [HowToNotificationsToMobile](pages/user/HowToNotificationsToMobile.md) — включение уведомлений от мобильных приложений на устройстве (близко по содержанию к HowNotificationsToMobile).
+- [HowToNotificationsToMobile](pages/user/HowToNotificationsToMobile.md) — что делать, если не приходят уведомления от приложений HubEx: включение уведомлений в настройках устройства, повторный вход в приложение и проверка настроек оповещений в консоли администратора.
 - [Messages](pages/user/Messages.md) — сообщения по заявке в web и мобильном приложениях, участники чата, разделение чатов с командой и заказчиком.
 - [AnswerTemplate](pages/user/AnswerTemplate.md) — шаблоны ответов для чатов с заказчиками и исполнителями.
 - [TelegramIntegration](pages/admin/TelegramIntegration.md) — интеграция с Telegram-ботом для приёма и обработки заявок от заказчиков.
@@ -141,7 +141,7 @@
 
 - [GeneralAnalytics](pages/user/GeneralAnalytics.md) — панель Power BI «Общая аналитика»: KPI, динамика поступивших заявок, разрезы.
 - [EngineersAnalytics](pages/user/EngineersAnalytics.md) — отчёт Power BI по сотрудникам: заявки и SLA, отработанное время, KPI, рейтинг.
-- [ObjectsAnalytics](pages/user/ObjectsAnalytics.md) — отчёт по объектам обслуживания: KPI (MTBF, MTTR), динамика, география.
+- [ObjectsAnalytics](pages/user/ObjectsAnalytics.md) — Power BI-отчёт по объектам обслуживания: KPI (MTBF, MTTR, активные объекты), динамика количества объектов, диаграмма заявок и скорости закрытия, таблица показателей, детальный отчёт по объекту и карта географии.
 - [ClientsAnalytics](pages/user/ClientsAnalytics.md) — отчёт «Отчёт для клиента» на Power BI.
 - [ProcessEfficiency](pages/user/ProcessEfficiency.md) — отчёт «Анализ эффективности процессов»: проблемы в бизнес-процессах, сравнение эффективности, время прохождения стадий.
 - [TicketsReport](pages/user/TicketsReport.md) — раздел «Срез по заявкам»: диаграммы по стадиям, просрочкам, компаниям, загруженности.
@@ -157,7 +157,7 @@
 
 - [AboutHubEx](pages/admin/AboutHubEx.md) — общее описание платформы HubEx: сравнение с Help Desk/ITSM/CRM/ТОиР/SCADA, компоненты, способы доработки, стек.
 - [HowToEnterTheAdmin](pages/admin/HowToEnterTheAdmin.md) — вход в консоль администратора и что делать при нехватке прав.
-- [Deployment](pages/admin/Deployment.md) — сравнение вариантов развёртывания: публичное облако, облако на выделенных серверах, on-premise.
+- [Deployment](pages/admin/Deployment.md) — ⚠ Сравнение трёх вариантов развёртывания HubEx (публичное облако, облако на выделенных серверах, on-premise): критерии выбора, плюсы и минусы каждого, конфигурации Бронза/Серебро/Золото.
 - [OnPremise](pages/admin/OnPremise.md) — страница-заглушка про On-Premise (реального содержания нет).
 - [Branding](pages/user/Branding.md) — требования к логотипу компании и брендирование web/мобильного приложения (подписка «Корпорация»).
 - [MobileDevice](pages/user/MobileDevice.md) — технические требования к Android/iOS-устройствам для мобильных приложений HubEx.
@@ -174,7 +174,7 @@
 - [StartIntegrationAPI](pages/admin/StartIntegrationAPI.md) — начало работы с REST API: сервисный пользователь, access token, примеры запросов (Postman, cURL, Python).
 - [ExampleRequestsAPI](pages/admin/ExampleRequestsAPI.md) — примеры REST API-запросов: заявки, объекты, компании, пользователи, стадии, сообщения, файлы.
 - [Integration](pages/admin/Integration.md) — интеграция с Битрикс24 через сервис Albato (связки, токены, триггеры).
-- [IntegrationBitrix24](pages/admin/IntegrationBitrix24.md) — альтернативная интеграция с Битрикс24 через приложение из Маркетплейса Битрикс24.
+- [IntegrationBitrix24](pages/admin/IntegrationBitrix24.md) — настройка интеграции с Битрикс24 через приложение из Маркетплейса: робот создаёт заявки HubEx из сделок, связка токенами, перечень передаваемых полей и FAQ.
 - [SSOintegration](pages/admin/SSOintegration.md) — единый вход SSO: протоколы (SAML, OAuth2/OIDC, LDAP), настройка через Keycloak.
 - [HowToManageGmailIntegration](pages/user/HowToManageGmailIntegration.md) — настройка доступа «ненадёжных приложений» в Google для интеграции HubEx с Gmail.
 
@@ -182,7 +182,7 @@
 
 - [CustomerApp](pages/user/CustomerApp.md) — мобильное приложение HubEx Заказчик: вход, создание заявки, чат, отмена, приёмка работ, оценка исполнителя.
 - [CustomerWeb](pages/user/CustomerWeb.md) — клиентский веб-портал заказчика: вход, создание заявки, чат, печать акта, аналитика.
-- [RouteToObject](pages/user/RouteToObject.md) — построение маршрута до объекта через внешние карты (Яндекс, 2ГИС, Google).
+- [RouteToObject](pages/user/RouteToObject.md) — построение маршрута до адреса Объекта из Заявки во внешнем навигаторе (Яндекс Карты, 2ГИС и др.) и смена навигатора по умолчанию в настройках аккаунта.
 
 
 ## Новые страницы (разложить по темам)

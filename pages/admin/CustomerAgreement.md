@@ -2,7 +2,7 @@
 title: "Согласование с заказчиком в HubEx"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/admin/CustomerAgreement.html"
 section: "admin"
-content_hash: "a04f9f0fa7b158a4"
+content_hash: "781c8108d235195e"
 ---
 
 #### Согласование с заказчиком: жизненный цикл, стадии согласования, уведомления
@@ -190,4 +190,4 @@ content_hash: "a04f9f0fa7b158a4"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

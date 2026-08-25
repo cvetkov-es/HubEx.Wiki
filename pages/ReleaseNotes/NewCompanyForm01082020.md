@@ -2,7 +2,7 @@
 title: "Новая форма Компании: обновление от 01.08.2020"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/NewCompanyForm01082020.html"
 section: "ReleaseNotes"
-content_hash: "17eb0449f82af12b"
+content_hash: "d0e4a075a1387494"
 ---
 
 #### Новая форма Компании: обновление от 01.08.2020
@@ -33,4 +33,4 @@ content_hash: "17eb0449f82af12b"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

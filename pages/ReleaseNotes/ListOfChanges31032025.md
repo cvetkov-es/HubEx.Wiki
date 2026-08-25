@@ -2,7 +2,7 @@
 title: "Что нового в HubEx: обновления за первый квартал 2025 года"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ListOfChanges31032025.html"
 section: "ReleaseNotes"
-content_hash: "3d3b467a8141b1cc"
+content_hash: "ee39d399d68cddfa"
 ---
 
 #### HubEx стал ещё лучше! Свежие функции, которые вы ждали — уже в системе: обновление за первый квартал 2025 года
@@ -83,4 +83,4 @@ content_hash: "3d3b467a8141b1cc"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

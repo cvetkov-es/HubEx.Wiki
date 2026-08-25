@@ -2,7 +2,7 @@
 title: "Чем Сотрудник отличается от Заказчика?"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/EngineerVSCustomer.html"
 section: "user"
-content_hash: "0efd8d3950b554b0"
+content_hash: "5bd571b3af9e32ae"
 ---
 
 #### Чем Сотрудник отличается от Заказчика?
@@ -35,4 +35,4 @@ content_hash: "0efd8d3950b554b0"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

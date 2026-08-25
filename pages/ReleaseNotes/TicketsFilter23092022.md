@@ -2,7 +2,7 @@
 title: "Фильтрация заявок по дополнительным полям: обновление от 23.09.2022"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/TicketsFilter23092022.html"
 section: "ReleaseNotes"
-content_hash: "26c58577cf4c4839"
+content_hash: "ee1e9f9f7a99edd9"
 ---
 
 #### Фильтрация заявок по дополнительным полям: обновление от 23.09.2022
@@ -29,4 +29,4 @@ content_hash: "26c58577cf4c4839"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

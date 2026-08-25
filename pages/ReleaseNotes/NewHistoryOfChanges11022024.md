@@ -2,7 +2,7 @@
 title: "Новая история изменений заявки: обновление от 11.02.2025"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/NewHistoryOfChanges11022024.html"
 section: "ReleaseNotes"
-content_hash: "591faae3530ebbef"
+content_hash: "fc24dbdad91ad3e8"
 ---
 
 #### Новая история изменений заявки от 11.02.2025
@@ -35,4 +35,4 @@ content_hash: "591faae3530ebbef"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

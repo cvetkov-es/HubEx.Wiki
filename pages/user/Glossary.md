@@ -2,7 +2,7 @@
 title: "Глоссарий терминов HubEx"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/Glossary.html"
 section: "user"
-content_hash: "9aad824e99a500fa"
+content_hash: "97f7e7b33c194389"
 ---
 
 #### Глоссарий терминов HubEx
@@ -31,4 +31,4 @@ content_hash: "9aad824e99a500fa"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

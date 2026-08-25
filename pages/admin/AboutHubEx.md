@@ -2,7 +2,7 @@
 title: "HubEx FSM"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/admin/AboutHubEx.html"
 section: "admin"
-content_hash: "d7a611f8246c29b9"
+content_hash: "8559a4f52932668a"
 ---
 
 # HubEx FSM
@@ -184,4 +184,4 @@ HubEx имеет функциональный административный 
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

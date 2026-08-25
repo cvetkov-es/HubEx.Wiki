@@ -2,7 +2,7 @@
 title: "График работы исполнителей"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/Schedule.html"
 section: "user"
-content_hash: "d4b69b8c0f51e91a"
+content_hash: "4de5b9bcbae4dcff"
 ---
 
 # Графики работ
@@ -275,4 +275,4 @@ content_hash: "d4b69b8c0f51e91a"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

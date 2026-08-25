@@ -2,7 +2,7 @@
 title: "Плановые заявки в календаре на месяц: обновление от 28.03.2022"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/PlanTicket28032022.html"
 section: "ReleaseNotes"
-content_hash: "0b32c08a99ed7e19"
+content_hash: "8078cb9bdb9f2e1b"
 ---
 
 #### Плановые заявки в календаре на месяц: обновление от 28.03.2022
@@ -31,4 +31,4 @@ content_hash: "0b32c08a99ed7e19"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

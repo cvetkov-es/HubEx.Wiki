@@ -2,7 +2,7 @@
 title: "Критичность заявки"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/admin/Criticality.html"
 section: "admin"
-content_hash: "cf1971e883958ce2"
+content_hash: "ccc06137f42966d4"
 ---
 
 #### Критичность заявки
@@ -39,4 +39,4 @@ content_hash: "cf1971e883958ce2"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

@@ -2,7 +2,7 @@
 title: "Новая форма Заявки: обновление от 02.10.2020"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/NewTicketForm02102020.html"
 section: "ReleaseNotes"
-content_hash: "eb73b05cbb673a75"
+content_hash: "8603c3466308ad92"
 ---
 
 #### Новая форма Заявки: обновление от 02.10.2020
@@ -33,4 +33,4 @@ content_hash: "eb73b05cbb673a75"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

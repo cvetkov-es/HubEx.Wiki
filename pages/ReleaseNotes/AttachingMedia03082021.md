@@ -2,7 +2,7 @@
 title: "Медиафайлы в сообщениях: обновление от 03.08.2021"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/AttachingMedia03082021.html"
 section: "ReleaseNotes"
-content_hash: "4479ea25c395cf83"
+content_hash: "9fd9f1e3267deae4"
 ---
 
 #### Медиафайлы в сообщениях: обновление от 03.08.2021
@@ -35,4 +35,4 @@ content_hash: "4479ea25c395cf83"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

@@ -2,7 +2,7 @@
 title: "Классы оборудования"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/admin/ObjectClass.html"
 section: "admin"
-content_hash: "77c473001aff5b7e"
+content_hash: "361d05b5fe3d7ed3"
 ---
 
 #### Классы оборудования
@@ -90,4 +90,4 @@ content_hash: "77c473001aff5b7e"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

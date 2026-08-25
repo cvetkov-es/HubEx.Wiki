@@ -2,7 +2,7 @@
 title: "Отображение Заявки для нескольких исполнителей в календаре: обновление от 18.03.2024"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/CalendarTickets18032024.html"
 section: "ReleaseNotes"
-content_hash: "4e5e18be6b526ee6"
+content_hash: "9ca565b116e5f25a"
 ---
 
 #### Отображение Заявки для нескольких исполнителей в календаре: обновление от 18.03.2024
@@ -31,4 +31,4 @@ content_hash: "4e5e18be6b526ee6"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

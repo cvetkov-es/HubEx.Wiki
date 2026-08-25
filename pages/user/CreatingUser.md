@@ -2,7 +2,7 @@
 title: "Создание пользователя вашей системы"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingUser.html"
 section: "user"
-content_hash: "1ee59c864e5e48f1"
+content_hash: "3cd3a5feb3d870ea"
 ---
 
 # Создание пользователя вашей системы
@@ -188,4 +188,4 @@ YouTube
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

@@ -2,7 +2,7 @@
 title: "Магазин плагинов в системе HubEx, Настройка полей поиска объектов, Экран пробегов сотрудников в Истории перемещений, Сохранение настроек колонок таблицы заявок"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ListOfChanges20072026.html"
 section: "ReleaseNotes"
-content_hash: "27d4d88827625f65"
+content_hash: "197746d0b57964b8"
 ---
 
 ### **🛒 Магазин плагинов — расширяйте HubEx под задачи вашего бизнеса**
@@ -229,4 +229,4 @@ content_hash: "27d4d88827625f65"
 
 ---
 
-[Перейти в меню](http://wiki.hubex.ru)
+[Перейти в меню](https://wiki.hubex.ru/)

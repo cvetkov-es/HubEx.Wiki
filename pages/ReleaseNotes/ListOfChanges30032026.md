@@ -2,7 +2,7 @@
 title: "Множественный поиск по заявкам в веб-версии HubEx, Сканирование кодов DataMatrix для материалов в выполненных работах, Новый функционал 'История перемещений' в разделе 'Карты'"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ListOfChanges30032026.html"
 section: "ReleaseNotes"
-content_hash: "e9c89490811b10c0"
+content_hash: "a61a516cf9a04a4f"
 ---
 
 ### **🔍 Множественный поиск по заявкам в веб-версии HubEx**
@@ -215,4 +215,4 @@ content_hash: "e9c89490811b10c0"
 
 ---
 
-[Перейти в меню](http://wiki.hubex.ru)
+[Перейти в меню](https://wiki.hubex.ru/)

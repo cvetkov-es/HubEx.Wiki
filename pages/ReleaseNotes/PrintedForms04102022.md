@@ -2,7 +2,7 @@
 title: "Новые печатные формы и график обслуживания объектов: обновление от 04.10.2022"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/PrintedForms04102022.html"
 section: "ReleaseNotes"
-content_hash: "0222cabfb5d635ed"
+content_hash: "8813bd151f2a3253"
 ---
 
 #### Новые печатные формы и график обслуживания объектов: обновление от 04.10.2022
@@ -57,4 +57,4 @@ content_hash: "0222cabfb5d635ed"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

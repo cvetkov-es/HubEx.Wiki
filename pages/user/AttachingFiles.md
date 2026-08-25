@@ -2,7 +2,7 @@
 title: "Прикрепление выполненных работ в web и мобильном приложении"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/AttachingFiles.html"
 section: "user"
-content_hash: "892ec0c8649e91b7"
+content_hash: "575c0e188eff8b68"
 ---
 
 ### Прикрепление выполненных работ в web и мобильном приложении
@@ -140,4 +140,4 @@ iOS](https://apps.apple.com/ru/app/hubex-%D0%B4%D0%BB%D1%8F-%D1%81%D0%B5%D1%80%D
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

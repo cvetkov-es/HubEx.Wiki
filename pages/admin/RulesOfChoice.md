@@ -2,7 +2,7 @@
 title: "Правила автоназначения исполнителя"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/admin/RulesOfChoice.html"
 section: "admin"
-content_hash: "8438bc9da36bbe0a"
+content_hash: "4660773f52802022"
 ---
 
 # Правила автоназначения исполнителя
@@ -82,4 +82,4 @@ YouTube
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

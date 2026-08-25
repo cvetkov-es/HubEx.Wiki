@@ -2,7 +2,7 @@
 title: "Графики работы"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/admin/WorkSchedule.html"
 section: "admin"
-content_hash: "97c77e528014f5b0"
+content_hash: "6f6b14467c33ac86"
 ---
 
 #### Настройка графиков работы
@@ -177,4 +177,4 @@ content_hash: "97c77e528014f5b0"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

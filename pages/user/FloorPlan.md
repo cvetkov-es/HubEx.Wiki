@@ -2,7 +2,7 @@
 title: "Планы помещений"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/FloorPlan.html"
 section: "user"
-content_hash: "a45355f6b416ceb3"
+content_hash: "a0a5b8fb7b6064de"
 ---
 
 #### Планы помещений
@@ -107,4 +107,4 @@ YouTube
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

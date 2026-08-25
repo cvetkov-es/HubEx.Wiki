@@ -2,7 +2,7 @@
 title: "HubEx теперь интегрируется с Битрикс24 - обновление от 23.07.2025"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/IntegrationBitrix24-23072025.html"
 section: "ReleaseNotes"
-content_hash: "73b36ef8706b0804"
+content_hash: "cdae45ae5297058c"
 ---
 
 ## **HubEx теперь интегрируется с Битрикс24 - обновление от 23.07.2025**
@@ -44,4 +44,4 @@ content_hash: "73b36ef8706b0804"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

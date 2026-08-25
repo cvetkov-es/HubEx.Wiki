@@ -2,7 +2,7 @@
 title: "Назначение исполнителей из карты в Заявке: обновление от 04.09.2020"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/MapInTicket04092020.html"
 section: "ReleaseNotes"
-content_hash: "4f231dfe587d41dd"
+content_hash: "411bf21505e59175"
 ---
 
 #### Назначение исполнителей из карты в Заявке: обновление от 04.09.2020
@@ -27,4 +27,4 @@ content_hash: "4f231dfe587d41dd"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

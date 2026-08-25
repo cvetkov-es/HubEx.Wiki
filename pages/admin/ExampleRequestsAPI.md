@@ -2,7 +2,7 @@
 title: "Примеры API запросов в HubEx для реализации интеграции"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/admin/ExampleRequestsAPI.html"
 section: "admin"
-content_hash: "ad3e2bf92fe6a736"
+content_hash: "45eb222b66062865"
 ---
 
 # Примеры API запросов в HubEx для реализации интеграции
@@ -689,4 +689,4 @@ Status Code : **202 Accepted**
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

@@ -2,7 +2,7 @@
 title: "График обслуживания объектов"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/PlannedTicketsSchedule.html"
 section: "user"
-content_hash: "c075e046ef84cbf7"
+content_hash: "dd76e3fb306cd6e5"
 ---
 
 #### График обслуживания объектов
@@ -95,4 +95,4 @@ YouTube
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

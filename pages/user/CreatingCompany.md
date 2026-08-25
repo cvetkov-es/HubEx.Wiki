@@ -2,7 +2,7 @@
 title: "Создание обслуживаемых компаний"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingCompany.html"
 section: "user"
-content_hash: "c0bf3a90f234021e"
+content_hash: "1b0323e518f79aa0"
 ---
 
 # Создание обслуживаемых компаний
@@ -166,4 +166,4 @@ YouTube
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

@@ -2,7 +2,7 @@
 title: "Предпросмотр PDF-файлов в веб-версии HubEx, Кастомный паспорт объекта для QR-кодов"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ListOfChanges13042026.html"
 section: "ReleaseNotes"
-content_hash: "7b2f8bdbdaac45a6"
+content_hash: "761edb2bcd90fe0b"
 ---
 
 ### **📄 Предпросмотр PDF-файлов в веб-версии HubEx**
@@ -92,4 +92,4 @@ content_hash: "7b2f8bdbdaac45a6"
 
 ---
 
-[Перейти в меню](http://wiki.hubex.ru)
+[Перейти в меню](https://wiki.hubex.ru/)

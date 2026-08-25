@@ -2,7 +2,7 @@
 title: "Ручное создание складов в Панели диспетчера, Ручное создание материалов в Панели диспетчера"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ListOfChanges18062026.html"
 section: "ReleaseNotes"
-content_hash: "3439510bac9f4143"
+content_hash: "96a8061980fa6549"
 ---
 
 ### Ручное создание складов и материалов в Панели диспетчера от 18.06.2026
@@ -94,4 +94,4 @@ content_hash: "3439510bac9f4143"
 
 ---
 
-[Перейти в меню](http://wiki.hubex.ru)
+[Перейти в меню](https://wiki.hubex.ru/)

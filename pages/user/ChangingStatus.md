@@ -2,7 +2,7 @@
 title: "Переход заявки по стадиям и удаление заявки"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/ChangingStatus.html"
 section: "user"
-content_hash: "77890eb185e31352"
+content_hash: "ad7fbf5a2854c2cf"
 ---
 
 #### Переход заявки по стадиям и удаление заявки
@@ -95,4 +95,4 @@ web-приложении диспетчер может иметь права н�
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

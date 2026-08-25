@@ -2,7 +2,7 @@
 title: "Знакомство с системой HubEx"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/HubExStepByStep.html"
 section: "user"
-content_hash: "305ea9eca7de4552"
+content_hash: "e95c102d3cac9a8c"
 ---
 
 #### Знакомство с системой HubEx
@@ -183,4 +183,4 @@ YouTube
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

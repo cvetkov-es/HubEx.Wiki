@@ -2,7 +2,7 @@
 title: "Переход на Яндекс Карты: обновление от 21.11.2024"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/YandexMaps20112024.html"
 section: "ReleaseNotes"
-content_hash: "eee8ad7a3fd0701e"
+content_hash: "87750f5c00d08f26"
 ---
 
 #### Переход на Яндекс Карты: обновление от 21.11.2024
@@ -42,4 +42,4 @@ content_hash: "eee8ad7a3fd0701e"
 
 </body>
 \_\_\_
-- [Перейти в меню](http://wiki.hubex.ru)
+- [Перейти в меню](/)

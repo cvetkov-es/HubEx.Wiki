@@ -2,7 +2,7 @@
 title: "Расположение Объекта на плане по умолчанию: обновление от 13.03.2024"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/FloorPlanDefault13032024.html"
 section: "ReleaseNotes"
-content_hash: "efe6a29e00d2e4e8"
+content_hash: "680e2043ac32992a"
 ---
 
 #### Расположение Объекта на плане по умолчанию: обновление от 13.03.2024
@@ -35,4 +35,4 @@ content_hash: "efe6a29e00d2e4e8"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

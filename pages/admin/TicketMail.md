@@ -2,7 +2,7 @@
 title: "Интеграция по электронной почте"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketMail.html"
 section: "admin"
-content_hash: "7a1c86f2df069fe6"
+content_hash: "ab91e2c7d3f270d1"
 ---
 
 #### Интеграция по электронной почте, подача заявок по электронной почте
@@ -575,4 +575,4 @@ QR-код. QR-код не используется для интеграции. 
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

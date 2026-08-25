@@ -2,7 +2,7 @@
 title: "Статусы заявок"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/admin/StatusType.html"
 section: "admin"
-content_hash: "f9d4863b91cc64bf"
+content_hash: "834f1c6ad9a74e6a"
 ---
 
 #### Статусы заявок
@@ -32,4 +32,4 @@ content_hash: "f9d4863b91cc64bf"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

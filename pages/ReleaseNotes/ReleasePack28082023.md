@@ -2,7 +2,7 @@
 title: "Полезные обновления (релевантность, паспорт объекта, экспорт): обновление от 28.08.2023"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ReleasePack28082023.html"
 section: "ReleaseNotes"
-content_hash: "2aa7710894a7f39e"
+content_hash: "2c8ea855e3a5f568"
 ---
 
 #### Полезные обновления (релевантность, паспорт объекта, экспорт): обновление от 28.08.2023
@@ -65,4 +65,4 @@ content_hash: "2aa7710894a7f39e"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

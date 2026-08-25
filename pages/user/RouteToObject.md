@@ -2,7 +2,7 @@
 title: "Построение маршрута до объекта"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/RouteToObject.html"
 section: "user"
-content_hash: "7975f0b04ca0315e"
+content_hash: "25b23c2d361f1395"
 ---
 
 #### Построение маршрута до объекта
@@ -66,4 +66,4 @@ content_hash: "7975f0b04ca0315e"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

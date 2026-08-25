@@ -2,7 +2,7 @@
 title: "Календарь и Заявки на карте: обновление от 17.11.2021"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/CalendarInMap17112021.html"
 section: "ReleaseNotes"
-content_hash: "29e7fd154877d6a4"
+content_hash: "cfc57ee0d89f6414"
 ---
 
 #### Календарь и Заявки на карте: обновление от 17.11.2021
@@ -35,4 +35,4 @@ content_hash: "29e7fd154877d6a4"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

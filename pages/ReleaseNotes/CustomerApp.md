@@ -2,7 +2,7 @@
 title: "Обновления мобильного приложения HubEx для заказчика"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/CustomerApp.html"
 section: "ReleaseNotes"
-content_hash: "becc964c6af7d18a"
+content_hash: "fdd8cd041dd75d01"
 ---
 
 #### Обновления мобильного приложения HubEx для заказчика
@@ -102,4 +102,4 @@ content_hash: "becc964c6af7d18a"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

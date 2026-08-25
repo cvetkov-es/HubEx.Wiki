@@ -2,7 +2,7 @@
 title: "Бренд компании"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/Branding.html"
 section: "user"
-content_hash: "698290a187cce252"
+content_hash: "7e164e66a2da2f6f"
 ---
 
 #### Бренд компании
@@ -85,4 +85,4 @@ content_hash: "698290a187cce252"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

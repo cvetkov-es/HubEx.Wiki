@@ -2,7 +2,7 @@
 title: "Дополнительные поля для компаний и договоров: обновление от 19.12.2023"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/AdditionalFieldsContract19122023.html"
 section: "ReleaseNotes"
-content_hash: "9d30aab70df7c540"
+content_hash: "34aed6252c0c724d"
 ---
 
 #### Дополнительные поля для компаний и договоров: обновление от 19.12.2023
@@ -57,4 +57,4 @@ content_hash: "9d30aab70df7c540"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

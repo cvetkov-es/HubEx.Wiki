@@ -2,7 +2,7 @@
 title: "Бухгалтерский акт"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/PrintedFormActOfAccounting.html"
 section: "user"
-content_hash: "2df20eea3567da47"
+content_hash: "6849769732dc3734"
 ---
 
 #### Бухгалтерский акт
@@ -99,4 +99,4 @@ YouTube
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

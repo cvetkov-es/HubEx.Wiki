@@ -2,7 +2,7 @@
 title: "Лента уведомлений в web-приложении"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/NotificationInWeb.html"
 section: "user"
-content_hash: "12d18d53fb8e6f01"
+content_hash: "3f802b1f26ba8c7c"
 ---
 
 #### Лента уведомлений в web-приложении
@@ -44,4 +44,4 @@ content_hash: "12d18d53fb8e6f01"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

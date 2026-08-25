@@ -2,7 +2,7 @@
 title: "Возможность указать подписанта в акте выполненных работ"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/SignatoryInAct23062025.html"
 section: "ReleaseNotes"
-content_hash: "0b720f3ca105df2a"
+content_hash: "f1eb4ad2a054d6f1"
 ---
 
 Доработка функционала получения подписи
@@ -52,4 +52,4 @@ content_hash: "0b720f3ca105df2a"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

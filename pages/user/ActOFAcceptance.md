@@ -2,7 +2,7 @@
 title: "Акт выполненных работ"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/ActOFAcceptance.html"
 section: "user"
-content_hash: "bfd2b33dab6fb237"
+content_hash: "7293acbe8549bc35"
 ---
 
 #### Акт выполненных работ
@@ -108,4 +108,4 @@ QR-кода для повышения оперативности ведения 
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

@@ -2,7 +2,7 @@
 title: "Улучшения и доработки: обновление от 15.06.2020"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/GeneralUpdate15062020.html"
 section: "ReleaseNotes"
-content_hash: "e0c92e9cba8f7696"
+content_hash: "04f63ba7ff85d8b1"
 ---
 
 #### Улучшения и доработки: обновление от 15.06.2020
@@ -45,4 +45,4 @@ content_hash: "e0c92e9cba8f7696"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

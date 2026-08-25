@@ -2,7 +2,7 @@
 title: "Импорт заявок, объектов, компаний, пользователей"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/Import.html"
 section: "user"
-content_hash: "1f8c5693b6d285e4"
+content_hash: "c934329b1b248fac"
 ---
 
 #### Импорт
@@ -261,4 +261,4 @@ YouTube
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

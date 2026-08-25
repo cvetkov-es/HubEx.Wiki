@@ -2,7 +2,7 @@
 title: "Расход материалов по заявке, отчет по расходу"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/Withdrawals.html"
 section: "user"
-content_hash: "61e8123a4f344a9e"
+content_hash: "111da7baa956adc1"
 ---
 
 #### Расход материалов по заявке, отчет по расходу
@@ -101,4 +101,4 @@ iOS](https://apps.apple.com/ru/app/hubex-%D0%B4%D0%BB%D1%8F-%D1%81%D0%B5%D1%80%D
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

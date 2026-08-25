@@ -2,7 +2,7 @@
 title: "Склады и материалы"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/MaterialsNew.html"
 section: "user"
-content_hash: "63ef34a18a7d8ebf"
+content_hash: "a20935cad2ab3cdd"
 ---
 
 # Склады и материалы
@@ -238,4 +238,4 @@ content_hash: "63ef34a18a7d8ebf"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

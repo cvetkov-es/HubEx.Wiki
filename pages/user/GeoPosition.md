@@ -2,7 +2,7 @@
 title: "Текущая геопозиция сотрудников"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/GeoPosition.html"
 section: "user"
-content_hash: "5d533aa768ece3f4"
+content_hash: "add60e610de2cb95"
 ---
 
 #### Карта: текущая геопозиция сотрудников и расположение заявок
@@ -96,4 +96,4 @@ iOS](https://apps.apple.com/ru/app/hubex-%D0%B4%D0%BB%D1%8F-%D0%B7%D0%B0%D0%BA%D
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

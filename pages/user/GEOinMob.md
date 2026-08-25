@@ -2,7 +2,7 @@
 title: "Геолокация в мобильном приложении исполнителя"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/GEOinMob.html"
 section: "user"
-content_hash: "2a89fa478b50c49e"
+content_hash: "d46ca8263036f22e"
 ---
 
 #### Геолокация в мобильном приложении исполнителя
@@ -114,4 +114,4 @@ content_hash: "2a89fa478b50c49e"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

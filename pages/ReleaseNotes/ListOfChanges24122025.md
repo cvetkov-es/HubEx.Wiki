@@ -2,7 +2,7 @@
 title: "Настройка размера шрифтов в МП, Увеличение количество фильтров для заявок"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ListOfChanges24122025.html"
 section: "ReleaseNotes"
-content_hash: "184e38bb8ef1b1f3"
+content_hash: "0d665469a6fbec4e"
 ---
 
 ### 📱 **Новая возможность: настройка размера шрифта в мобильном приложении HubEx**
@@ -64,4 +64,4 @@ content_hash: "184e38bb8ef1b1f3"
 
 ---
 
-[Перейти в меню](http://wiki.hubex.ru)
+[Перейти в меню](https://wiki.hubex.ru/)

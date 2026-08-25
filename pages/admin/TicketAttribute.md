@@ -2,7 +2,7 @@
 title: "Создание атрибутов для чек-листа"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketAttribute.html"
 section: "admin"
-content_hash: "a6bfd7209688aa9d"
+content_hash: "501334c192c98dd5"
 ---
 
 #### Создание атрибутов для чек-листа
@@ -37,4 +37,4 @@ content_hash: "a6bfd7209688aa9d"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

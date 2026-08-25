@@ -2,7 +2,7 @@
 title: "Настройки системы для работы с материалами"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/SettingsWithMaterials.html"
 section: "user"
-content_hash: "096b4260d80df164"
+content_hash: "6c9554d09cbf3b3a"
 ---
 
 #### Настройки системы для работы с материалами
@@ -53,4 +53,4 @@ content_hash: "096b4260d80df164"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

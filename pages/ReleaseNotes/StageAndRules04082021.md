@@ -2,7 +2,7 @@
 title: "Новый функционал в Стадиях заявки и Правилах автоназначения: обновление от 04.08.2021"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/StageAndRules04082021.html"
 section: "ReleaseNotes"
-content_hash: "66228664f7558962"
+content_hash: "8774b33a5f898cc5"
 ---
 
 #### Новый функционал в Стадиях заявки и Правилах автоназначения: обновление от 04.08.2021
@@ -43,4 +43,4 @@ content_hash: "66228664f7558962"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

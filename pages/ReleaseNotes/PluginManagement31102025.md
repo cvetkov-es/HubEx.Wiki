@@ -2,7 +2,7 @@
 title: "Новые возможности управления плагинами для роли"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/PluginManagement31102025.html"
 section: "ReleaseNotes"
-content_hash: "349913e362d92904"
+content_hash: "4c73b5b1bebde73c"
 ---
 
 ### **🔐 Новая система управления доступом к плагинам в ролях пользователей**
@@ -71,4 +71,4 @@ content_hash: "349913e362d92904"
 
 ---
 
-[Перейти в меню](http://wiki.hubex.ru)
+[Перейти в меню](https://wiki.hubex.ru/)

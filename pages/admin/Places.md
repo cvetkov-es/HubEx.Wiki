@@ -2,7 +2,7 @@
 title: "Настройка участков"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/admin/Places.html"
 section: "admin"
-content_hash: "65e7618d941b042a"
+content_hash: "dcca0036858dd110"
 ---
 
 # Настройка участков
@@ -97,4 +97,4 @@ content_hash: "65e7618d941b042a"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

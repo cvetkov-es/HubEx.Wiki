@@ -2,7 +2,7 @@
 title: "Отчет по сотрудникам: обновление от 19.05.2021"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/EngineersAnalytic19052021.html"
 section: "ReleaseNotes"
-content_hash: "070436ea1ab26637"
+content_hash: "b018b74de07ff569"
 ---
 
 #### Отчет по сотрудникам: обновление от 19.05.2021
@@ -45,4 +45,4 @@ content_hash: "070436ea1ab26637"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

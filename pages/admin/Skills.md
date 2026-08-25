@@ -2,7 +2,7 @@
 title: "Навыки"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/admin/Skills.html"
 section: "admin"
-content_hash: "825ce2038ccf5e31"
+content_hash: "5f16eecf055ec1a7"
 ---
 
 # Навыки
@@ -71,4 +71,4 @@ content_hash: "825ce2038ccf5e31"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

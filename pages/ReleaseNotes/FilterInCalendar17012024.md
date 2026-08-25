@@ -2,7 +2,7 @@
 title: "Фильтр по сотрудникам в календаре: обновление от 17.01.2024"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/FilterInCalendar17012024.html"
 section: "ReleaseNotes"
-content_hash: "b851a8a4112e975b"
+content_hash: "6c98bdf4cd2163a8"
 ---
 
 #### Фильтр по сотрудникам в календаре: обновление от 17.01.2024
@@ -49,4 +49,4 @@ content_hash: "b851a8a4112e975b"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

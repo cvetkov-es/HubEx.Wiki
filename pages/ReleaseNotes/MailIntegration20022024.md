@@ -2,7 +2,7 @@
 title: "Интеграция по электронной почте через пересылку: обновление от 20.02.2024"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/MailIntegration20022024.html"
 section: "ReleaseNotes"
-content_hash: "fc67f30e00ed889b"
+content_hash: "4f5c733244b8e393"
 ---
 
 #### Интеграция по электронной почте через пересылку: обновление от 20.02.2024
@@ -39,4 +39,4 @@ content_hash: "fc67f30e00ed889b"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

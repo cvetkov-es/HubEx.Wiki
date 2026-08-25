@@ -2,7 +2,7 @@
 title: "Начало работы с REST API HubEx"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/admin/StartIntegrationAPI.html"
 section: "admin"
-content_hash: "696caf08f152c57a"
+content_hash: "b84739ee5a82e893"
 ---
 
 # **Начало работы с REST API HubEx**
@@ -272,4 +272,4 @@ print(response.json())
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

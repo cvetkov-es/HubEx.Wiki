@@ -2,7 +2,7 @@
 title: "Отправка приглашения для сотрудника/заказчика"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/HowToSendInvitation.html"
 section: "user"
-content_hash: "9ea9da5d4302c4d9"
+content_hash: "886fc772d58d0b06"
 ---
 
 #### Отправка приглашения для сотрудника/заказчика
@@ -27,4 +27,4 @@ iOS](https://apps.apple.com/ru/app/hubex-%D0%B4%D0%BB%D1%8F-%D0%B7%D0%B0%D0%BA%D
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

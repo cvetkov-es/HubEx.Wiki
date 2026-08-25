@@ -2,7 +2,7 @@
 title: "Шаблоны ответов: обновление от 25.07.2023"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/AnswerTemplate25072023.html"
 section: "ReleaseNotes"
-content_hash: "7ffa4d4a27af1869"
+content_hash: "d062561109f8f671"
 ---
 
 #### Шаблоны ответов: обновление от 25.07.2023
@@ -56,4 +56,4 @@ content_hash: "7ffa4d4a27af1869"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

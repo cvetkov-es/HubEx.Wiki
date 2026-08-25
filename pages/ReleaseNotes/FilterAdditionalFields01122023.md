@@ -2,7 +2,7 @@
 title: "Фильтрация заявок по дополнительным полям с числовым форматом: обновление от 01.12.2023"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/FilterAdditionalFields01122023.html"
 section: "ReleaseNotes"
-content_hash: "6f8b4017cae0e154"
+content_hash: "e50705d324b8a21f"
 ---
 
 #### Фильтрация заявок по дополнительным полям с числовым форматом: обновление от 01.12.2023
@@ -41,4 +41,4 @@ content_hash: "6f8b4017cae0e154"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

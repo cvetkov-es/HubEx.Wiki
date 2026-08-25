@@ -2,7 +2,7 @@
 title: "Создание обслуживаемого оборудования"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingObjects.html"
 section: "user"
-content_hash: "1ac079152caa1462"
+content_hash: "5d0563ecc225cfaa"
 ---
 
 # Создание обслуживаемого оборудования
@@ -225,4 +225,4 @@ YouTube
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

@@ -2,7 +2,7 @@
 title: "Типы оборудования"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/admin/ObjectsType.html"
 section: "admin"
-content_hash: "631a7aec138691e5"
+content_hash: "00093438f1ccda4e"
 ---
 
 #### Типы оборудования
@@ -73,4 +73,4 @@ content_hash: "631a7aec138691e5"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

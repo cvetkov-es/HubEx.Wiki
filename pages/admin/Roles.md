@@ -2,7 +2,7 @@
 title: "Настройка ролей"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/admin/Roles.html"
 section: "admin"
-content_hash: "3e67808b47102a51"
+content_hash: "b8b6dca6702b0b21"
 ---
 
 #### Настройка Ролей
@@ -197,4 +197,4 @@ content_hash: "3e67808b47102a51"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

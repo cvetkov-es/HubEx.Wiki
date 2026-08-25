@@ -2,7 +2,7 @@
 title: "Лента уведомлений в web-приложении: обновление от 05.09.2023"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/NotificationInWeb05092023.html"
 section: "ReleaseNotes"
-content_hash: "5242855c0e27d20d"
+content_hash: "29697fad48cc55a6"
 ---
 
 #### Лента уведомлений в web-приложении: обновление от 05.09.2023
@@ -31,4 +31,4 @@ content_hash: "5242855c0e27d20d"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

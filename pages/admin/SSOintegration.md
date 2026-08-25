@@ -2,7 +2,7 @@
 title: "Универсальная интеграция SSO для всех клиентов HubEx"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/admin/SSOintegration.html"
 section: "admin"
-content_hash: "153f8a215ba68f98"
+content_hash: "94e19c3cd06aad20"
 ---
 
 ## Универсальная интеграция SSO для всех клиентов HubEx
@@ -122,4 +122,4 @@ content_hash: "153f8a215ba68f98"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

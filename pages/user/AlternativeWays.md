@@ -2,7 +2,7 @@
 title: "Альтернативные способы подачи заявки через почту, сайт, паспорт объекта"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/AlternativeWays.html"
 section: "user"
-content_hash: "689433ad6355359f"
+content_hash: "ffeeef61d233e963"
 ---
 
 #### Альтернативные способы подачи заявки через почту, сайт, паспорт объекта
@@ -141,4 +141,4 @@ HubEx с электронной
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

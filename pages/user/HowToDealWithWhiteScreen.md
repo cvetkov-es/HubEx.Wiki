@@ -2,7 +2,7 @@
 title: "Что делать, если при создании заявки/на некоторой стадии форма заявки пустая?"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/HowToDealWithWhiteScreen.html"
 section: "user"
-content_hash: "b71ce2e3eadaee9c"
+content_hash: "4cc9eaad9c67dd02"
 ---
 
 #### Что делать, если при создании заявки/на некоторой стадии форма заявки пустая?
@@ -66,4 +66,4 @@ content_hash: "b71ce2e3eadaee9c"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

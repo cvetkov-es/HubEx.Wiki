@@ -2,7 +2,7 @@
 title: "Управление правами для массового редактирования от 28.07.2025"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ManageRightsForBulkEditing28072025.html"
 section: "ReleaseNotes"
-content_hash: "8a60ff3ba5bc1b15"
+content_hash: "f49dd293da8bc420"
 ---
 
 ## **🚀 Управление правами для массового редактирования от 28.07.2025**
@@ -75,4 +75,4 @@ content_hash: "8a60ff3ba5bc1b15"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

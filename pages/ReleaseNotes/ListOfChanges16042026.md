@@ -2,7 +2,7 @@
 title: "Сканирование Data Matrix в МП — Этап 2 Контроль списания"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ListOfChanges16042026.html"
 section: "ReleaseNotes"
-content_hash: "e5cffa2dd076831a"
+content_hash: "b42afbb5bd253b0b"
 ---
 
 ### **📱 Сканирование Data Matrix в МП — Этап 2: Контроль списания маркируемых материалов**
@@ -58,4 +58,4 @@ content_hash: "e5cffa2dd076831a"
 
 ---
 
-[Перейти в меню](http://wiki.hubex.ru)
+[Перейти в меню](https://wiki.hubex.ru/)

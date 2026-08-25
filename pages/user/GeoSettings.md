@@ -2,7 +2,7 @@
 title: "Настройки геолокации для различных моделей мобильных телефонов"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/GeoSettings.html"
 section: "user"
-content_hash: "1832782ac0aa9b50"
+content_hash: "0a76c10fae5ae077"
 ---
 
 #### Настройки геолокации для различных моделей мобильных телефонов
@@ -416,4 +416,4 @@ content_hash: "1832782ac0aa9b50"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

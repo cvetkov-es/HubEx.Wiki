@@ -2,7 +2,7 @@
 title: "Отчет по объектам обслуживания"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/ObjectsAnalytics.html"
 section: "user"
-content_hash: "8a9b9565735ebc5d"
+content_hash: "bafe2ecfd29f462f"
 ---
 
 #### Отчет по объектам обслуживания
@@ -263,4 +263,4 @@ Excel с помощью кнопки **Дополнительные параме
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

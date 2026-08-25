@@ -2,7 +2,7 @@
 title: "Поля на форме заявки, настройка доступа к полям заявки"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/admin/ElementsOfInterface.html"
 section: "admin"
-content_hash: "2789ba59b4dc1a9b"
+content_hash: "ad265aa2599c11fb"
 ---
 
 #### Поля на форме заявки: настройка доступа к полям заявки
@@ -152,4 +152,4 @@ YouTube
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

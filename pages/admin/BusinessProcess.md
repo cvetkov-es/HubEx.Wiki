@@ -2,7 +2,7 @@
 title: "Базовый бизнес-процесс для заявки"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/admin/BusinessProcess.html"
 section: "admin"
-content_hash: "69d2586ef8cce0e2"
+content_hash: "a7f776478a6446d5"
 ---
 
 #### Базовый бизнес-процесс для Заявки
@@ -66,4 +66,4 @@ content_hash: "69d2586ef8cce0e2"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

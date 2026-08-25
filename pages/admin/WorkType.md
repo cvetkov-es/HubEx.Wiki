@@ -2,7 +2,7 @@
 title: "Виды работ"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/admin/WorkType.html"
 section: "admin"
-content_hash: "d1fdeca14cd5b5e7"
+content_hash: "4168810b4f122b6d"
 ---
 
 # Виды работ
@@ -99,4 +99,4 @@ content_hash: "d1fdeca14cd5b5e7"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

@@ -2,7 +2,7 @@
 title: "График действия договоров"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/ContractSchedule.html"
 section: "user"
-content_hash: "45531c253a806fc7"
+content_hash: "4f0184ecc011c433"
 ---
 
 #### График действия договоров
@@ -55,4 +55,4 @@ content_hash: "45531c253a806fc7"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

@@ -2,7 +2,7 @@
 title: "Индивидуальный график работы. Функционал На смене"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/OnDuty.html"
 section: "user"
-content_hash: "fcde74a83241cda1"
+content_hash: "4001f9392a230c83"
 ---
 
 #### Индивидуальный график работы: функционал На смене
@@ -186,4 +186,4 @@ iOS](https://apps.apple.com/ru/app/hubex-%D0%B4%D0%BB%D1%8F-%D1%81%D0%B5%D1%80%D
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

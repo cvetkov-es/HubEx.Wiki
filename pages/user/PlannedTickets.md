@@ -2,7 +2,7 @@
 title: "Создание плановой заявки"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/PlannedTickets.html"
 section: "user"
-content_hash: "9c1101d8df0b0145"
+content_hash: "998265b76d746246"
 ---
 
 #### Создание плановой заявки
@@ -163,4 +163,4 @@ YouTube
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

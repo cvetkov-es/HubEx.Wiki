@@ -2,7 +2,7 @@
 title: "Подача заявки с указанием рекомендованных материалов"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/TicketWithMaterials.html"
 section: "user"
-content_hash: "410ab0881365c490"
+content_hash: "e70b3d237b64b193"
 ---
 
 #### Подача заявки с указанием рекомендованных материалов
@@ -71,4 +71,4 @@ iOS](https://apps.apple.com/ru/app/hubex-%D0%B4%D0%BB%D1%8F-%D1%81%D0%B5%D1%80%D
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

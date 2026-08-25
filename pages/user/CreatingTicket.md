@@ -2,7 +2,7 @@
 title: "Создание заявки"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTicket.html"
 section: "user"
-content_hash: "7ce369ef864c2dc2"
+content_hash: "f3634088dc5bb700"
 ---
 
 # Создание заявки
@@ -413,4 +413,4 @@ YouTube
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

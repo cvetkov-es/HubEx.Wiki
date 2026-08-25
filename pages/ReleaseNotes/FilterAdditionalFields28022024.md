@@ -2,7 +2,7 @@
 title: "Фильтрация заявок по дополнительным полям со списочным форматом: обновление от 28.02.2024"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/FilterAdditionalFields28022024.html"
 section: "ReleaseNotes"
-content_hash: "6841c56208091766"
+content_hash: "c9fb28a5935c9611"
 ---
 
 #### Фильтрация заявок по дополнительным полям со списочным форматом: обновление от 28.02.2024
@@ -46,4 +46,4 @@ content_hash: "6841c56208091766"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

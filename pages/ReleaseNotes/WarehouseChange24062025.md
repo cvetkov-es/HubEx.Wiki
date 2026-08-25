@@ -2,7 +2,7 @@
 title: "Израсходованные материалы, Смена склада в Израсходованных материалах"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/WarehouseChange24062025.html"
 section: "ReleaseNotes"
-content_hash: "2693e07df8e62f33"
+content_hash: "0bad392d5cba6064"
 ---
 
 #### Обновление в HubEx - Теперь можно менять склад в Израсходованных материалах выполненной работы!
@@ -26,4 +26,4 @@ content_hash: "2693e07df8e62f33"
 
 Если у вас возникнут вопросы или проблемы — пишите нам в поддержку в Telegram: [@hubex\_bot](https://t.me/hubex_bot) или на почту: [help@hubex.ru](mailto:help@hubex.ru)
 
-[Перейти в меню](http://wiki.hubex.ru)
+[Перейти в меню](https://wiki.hubex.ru/)

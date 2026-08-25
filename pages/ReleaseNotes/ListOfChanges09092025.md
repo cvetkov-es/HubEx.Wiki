@@ -2,7 +2,7 @@
 title: "Автоматическая привязка видов работ к типам оборудовани, Новые виджеты в Панели управления администратора"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ListOfChanges09092025.html"
 section: "ReleaseNotes"
-content_hash: "751d9438e0c98db4"
+content_hash: "dd917638473efc3a"
 ---
 
 ## Обновление Автоматическая привязка видов работ к типам оборудования, Новые виджеты в Панели управления администратора от 09.09.2025
@@ -123,4 +123,4 @@ content_hash: "751d9438e0c98db4"
 
 ---
 
-[Перейти в меню](http://wiki.hubex.ru)
+[Перейти в меню](https://wiki.hubex.ru/)

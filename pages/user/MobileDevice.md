@@ -2,7 +2,7 @@
 title: "Как выбрать мобильное устройство для работы?"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/MobileDevice.html"
 section: "user"
-content_hash: "16853cc8db9b235f"
+content_hash: "64d737a4d487598e"
 ---
 
 #### Как выбрать мобильное устройство для работы?
@@ -57,4 +57,4 @@ content_hash: "16853cc8db9b235f"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

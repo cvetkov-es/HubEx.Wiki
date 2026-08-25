@@ -2,7 +2,7 @@
 title: "Поиск заявок по текстовому полю по компаниям, Вывод времени создания заявки в МП"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ListOfChanges15092025.html"
 section: "ReleaseNotes"
-content_hash: "8f1e9c3e2de0ef9b"
+content_hash: "21e5e360f228a2d7"
 ---
 
 ## Обновление Улучшенный поиск по заявкам: теперь и по компаниям, Теперь в мобильном приложении отображается время создания заявки от 15.09.2025
@@ -80,4 +80,4 @@ content_hash: "8f1e9c3e2de0ef9b"
 
 ---
 
-[Перейти в меню](http://wiki.hubex.ru)
+[Перейти в меню](https://wiki.hubex.ru/)

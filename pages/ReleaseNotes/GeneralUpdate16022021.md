@@ -2,7 +2,7 @@
 title: "Важные доработки (ифоподсказки, копирование жизненного цикла и др.): обновление от 16.02.2021"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/GeneralUpdate16022021.html"
 section: "ReleaseNotes"
-content_hash: "fa0fd039b74824a3"
+content_hash: "2a131e65200a3f4f"
 ---
 
 #### Важные доработки (ифоподсказки, копирование жизненного цикла и др.): обновление от 16.02.2021
@@ -49,4 +49,4 @@ content_hash: "fa0fd039b74824a3"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

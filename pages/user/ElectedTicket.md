@@ -2,7 +2,7 @@
 title: "Копирование и удаление заявок, заявки в избранном"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/ElectedTicket.html"
 section: "user"
-content_hash: "1b7455bdd843d8bd"
+content_hash: "8d7823dea363aa06"
 ---
 
 #### Копирование и удаление заявок, заявки в избранном
@@ -197,4 +197,4 @@ web- и мобильных приложениях читайте в статье
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

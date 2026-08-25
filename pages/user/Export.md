@@ -2,7 +2,7 @@
 title: "Экспорт"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/Export.html"
 section: "user"
-content_hash: "ee333a692795777d"
+content_hash: "4d3cb9f553a6c0ac"
 ---
 
 #### Экспорт
@@ -132,4 +132,4 @@ Excel.
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

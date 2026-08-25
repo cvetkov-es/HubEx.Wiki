@@ -2,7 +2,7 @@
 title: "Срез по заявкам"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/TicketsReport.html"
 section: "user"
-content_hash: "2fecdfa789bff089"
+content_hash: "0d421fb09f1f389e"
 ---
 
 #### Срез по заявкам
@@ -29,4 +29,4 @@ content_hash: "2fecdfa789bff089"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

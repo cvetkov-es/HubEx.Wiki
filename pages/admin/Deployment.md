@@ -2,7 +2,7 @@
 title: "Сравнение трех вариантов развертывания HubEx"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/admin/Deployment.html"
 section: "admin"
-content_hash: "9e80acc612ee75fd"
+content_hash: "0f77f687215753ce"
 ---
 
 # Сравнение трех вариантов развертывания HubEx
@@ -125,4 +125,4 @@ HubEx Public Cloud – это облачная версия HubEx. Инфрас�
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

@@ -2,7 +2,7 @@
 title: "Анализ эффективности процессов"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/ProcessEfficiency.html"
 section: "user"
-content_hash: "5155128a3eaab7d6"
+content_hash: "7a1d0d2e77f52fbf"
 ---
 
 #### Анализ эффективности процессов
@@ -309,4 +309,4 @@ YouTube
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

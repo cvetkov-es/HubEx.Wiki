@@ -2,7 +2,7 @@
 title: "Администрирование в HubEX: права и возможности администратора, FAQ"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/admin/Powers.html"
 section: "admin"
-content_hash: "d999dc253d857063"
+content_hash: "d19472592d142491"
 ---
 
 ## Полномочия роли
@@ -1363,4 +1363,4 @@ content_hash: "d999dc253d857063"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

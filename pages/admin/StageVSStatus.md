@@ -2,7 +2,7 @@
 title: "Чем отличаются Стадии заявки от Статусов заявки?"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/admin/StageVSStatus.html"
 section: "admin"
-content_hash: "808e34c54644a18f"
+content_hash: "7d820639bed4ad03"
 ---
 
 #### Чем отличаются Стадии заявки от Статусов заявки?
@@ -54,4 +54,4 @@ content_hash: "808e34c54644a18f"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

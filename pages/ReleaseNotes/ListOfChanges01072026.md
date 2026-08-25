@@ -2,7 +2,7 @@
 title: "Обработка ошибки при входе в МП без сети, Исправлено поле кол-во материалов в Выполнении в МП, Проверка дублирования ВР в МП"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ListOfChanges01072026.html"
 section: "ReleaseNotes"
-content_hash: "a0ac425c52c0af95"
+content_hash: "9e0e71fb507927b6"
 ---
 
 ### 📱 Мобильное приложение HubEx
@@ -39,4 +39,4 @@ content_hash: "a0ac425c52c0af95"
 
 ---
 
-[Перейти в меню](http://wiki.hubex.ru)
+[Перейти в меню](https://wiki.hubex.ru/)

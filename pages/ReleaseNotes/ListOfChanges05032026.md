@@ -2,7 +2,7 @@
 title: "Настройка карточного представления заявок, отключение старой истории изменений"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ListOfChanges05032026.html"
 section: "ReleaseNotes"
-content_hash: "705b02fee0afe454"
+content_hash: "e4959ba41997ed2c"
 ---
 
 ### **✅ Карточный список заявок: настройка карточек под себя**
@@ -70,4 +70,4 @@ content_hash: "705b02fee0afe454"
 
 ---
 
-[Перейти в меню](http://wiki.hubex.ru)
+[Перейти в меню](https://wiki.hubex.ru/)

@@ -2,7 +2,7 @@
 title: "Загрузка материалов и создание складов"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/Materials.html"
 section: "user"
-content_hash: "850e64e80d7e434e"
+content_hash: "14516c1932b283cc"
 ---
 
 #### Загрузка материалов и создание складов
@@ -165,4 +165,4 @@ Spreadsheet,
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

@@ -2,7 +2,7 @@
 title: "Обновления HubEx 14 октября 2025 --"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/UserAddetionFields23102025.html"
 section: "ReleaseNotes"
-content_hash: "20b6120a57478acd"
+content_hash: "c6c55dba32883679"
 ---
 
 ---
@@ -122,4 +122,4 @@ content_hash: "20b6120a57478acd"
 
 ---
 
-[Перейти в меню](http://wiki.hubex.ru)
+[Перейти в меню](https://wiki.hubex.ru/)

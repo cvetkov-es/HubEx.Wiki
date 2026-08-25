@@ -2,7 +2,7 @@
 title: "Настройка точности сбора координат в МП, Реализация всплывающих окон по ошибка в МП, Применение быстрых фильтров в МП для заявок"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ListOfChanges12052026.html"
 section: "ReleaseNotes"
-content_hash: "6667e8fbf73676bd"
+content_hash: "cf2f852858e24057"
 ---
 
 ### **📍 Новые настройки точности сбора геокоординат для мобильных сотрудников**
@@ -160,4 +160,4 @@ content_hash: "6667e8fbf73676bd"
 
 ---
 
-[Перейти в меню](http://wiki.hubex.ru)
+[Перейти в меню](https://wiki.hubex.ru/)

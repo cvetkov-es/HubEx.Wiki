@@ -2,7 +2,7 @@
 title: "Контактные лица"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/Contacts.html"
 section: "user"
-content_hash: "05008d8526c374c3"
+content_hash: "58ac9b20ad4d1126"
 ---
 
 #### Контактные лица
@@ -188,4 +188,4 @@ content_hash: "05008d8526c374c3"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

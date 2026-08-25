@@ -2,7 +2,7 @@
 title: "Как настроить интеграцию с Gmail (почта Google)?"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/HowToManageGmailIntegration.html"
 section: "user"
-content_hash: "84771cdf59832b67"
+content_hash: "81fd39f29b186e92"
 ---
 
 #### Как настроить интеграцию с Gmail (почта Google)?
@@ -42,4 +42,4 @@ content_hash: "84771cdf59832b67"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

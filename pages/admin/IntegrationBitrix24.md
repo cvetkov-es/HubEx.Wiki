@@ -2,7 +2,7 @@
 title: "Интеграция HubEx с Битрикс24"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/admin/IntegrationBitrix24.html"
 section: "admin"
-content_hash: "65c7c3610516a5d8"
+content_hash: "b79da592fbf7ae32"
 ---
 
 # **Инструкция по интеграции Битрикс24 и HubEx**
@@ -155,4 +155,4 @@ content_hash: "65c7c3610516a5d8"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

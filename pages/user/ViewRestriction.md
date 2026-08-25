@@ -2,7 +2,7 @@
 title: "Ограничение доступа к файлам в заявке и объекте"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/ViewRestriction.html"
 section: "user"
-content_hash: "e95def1e2c438dc8"
+content_hash: "c740cdf18e542d90"
 ---
 
 #### Ограничение доступа к файлам в заявке и объекте
@@ -35,4 +35,4 @@ content_hash: "e95def1e2c438dc8"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

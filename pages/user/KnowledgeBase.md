@@ -2,7 +2,7 @@
 title: "Корпоративная база знаний"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/KnowledgeBase.html"
 section: "user"
-content_hash: "5de57aa3e32cac87"
+content_hash: "aca472e5f6e618b0"
 ---
 
 #### Корпоративная база знаний
@@ -208,4 +208,4 @@ content_hash: "5de57aa3e32cac87"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

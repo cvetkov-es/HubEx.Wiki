@@ -2,7 +2,7 @@
 title: "Выполненные и закрытые заявки в календаре: обновление от 13.10.2023"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/CalendarUpdate13102023.html"
 section: "ReleaseNotes"
-content_hash: "9214adb824466c73"
+content_hash: "0321150c0e51d2ab"
 ---
 
 #### Выполненные и закрытые заявки в календаре: обновление от 13.10.2023
@@ -33,4 +33,4 @@ content_hash: "9214adb824466c73"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

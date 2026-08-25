@@ -2,7 +2,7 @@
 title: "Создание шаблона оборудования, приемка и маркировка по QR-коду"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingObjTemplates.html"
 section: "user"
-content_hash: "329869202f79a5a6"
+content_hash: "0b4109667b8308a4"
 ---
 
 #### Создание шаблона оборудования, приемка и маркировка по QR-коду
@@ -212,4 +212,4 @@ QR-коду, в HubEx автоматически будет
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

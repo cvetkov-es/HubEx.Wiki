@@ -2,7 +2,7 @@
 title: "Оценка заявок и рейтинг сотрудников"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/Rating.html"
 section: "user"
-content_hash: "b2c32312cbcaefb6"
+content_hash: "7f8787438dae14c5"
 ---
 
 #### Оценка заявок и рейтинг сотрудников
@@ -111,4 +111,4 @@ content_hash: "b2c32312cbcaefb6"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

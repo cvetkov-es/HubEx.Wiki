@@ -2,7 +2,7 @@
 title: "Вставка изображений в описание заявки, Настройка стартовой страницы для пользователей (веб-версия)"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ListOfChanges08062026.html"
 section: "ReleaseNotes"
-content_hash: "0736bc4464974a5c"
+content_hash: "7fd48f44fac44b89"
 ---
 
 ### **🖼️ Вставка изображений в описание заявки**
@@ -107,4 +107,4 @@ content_hash: "0736bc4464974a5c"
 
 ---
 
-[Перейти в меню](http://wiki.hubex.ru)
+[Перейти в меню](https://wiki.hubex.ru/)

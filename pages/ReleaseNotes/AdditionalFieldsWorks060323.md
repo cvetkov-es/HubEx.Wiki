@@ -2,7 +2,7 @@
 title: "Дополнительные поля для выполненных работ: обновление от 06.03.2023"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/AdditionalFieldsWorks060323.html"
 section: "ReleaseNotes"
-content_hash: "33cd73a035bd718f"
+content_hash: "299eb181840fe540"
 ---
 
 #### Дополнительные поля для выполненных работ: обновление от 06.03.2023
@@ -41,4 +41,4 @@ content_hash: "33cd73a035bd718f"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

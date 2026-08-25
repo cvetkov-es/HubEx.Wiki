@@ -2,7 +2,7 @@
 title: "Новый функционал по заявкам: обновление от 19.05.2021"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/TicketsUpdates19052021.html"
 section: "ReleaseNotes"
-content_hash: "554ad34aa4a92868"
+content_hash: "d863324826b84962"
 ---
 
 #### Новый функционал по заявкам: обновление от 19.05.2021
@@ -47,4 +47,4 @@ content_hash: "554ad34aa4a92868"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

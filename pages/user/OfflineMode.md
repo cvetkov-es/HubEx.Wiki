@@ -2,7 +2,7 @@
 title: "Работа в мобильном приложении исполнителя в офлайн-режиме"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/OfflineMode.html"
 section: "user"
-content_hash: "8fb6e71296c70adf"
+content_hash: "c9c5d291475d9206"
 ---
 
 #### Работа в мобильном приложении исполнителя в офлайн режиме
@@ -67,4 +67,4 @@ content_hash: "8fb6e71296c70adf"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

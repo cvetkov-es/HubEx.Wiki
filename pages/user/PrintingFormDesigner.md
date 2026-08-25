@@ -2,7 +2,7 @@
 title: "Как создать свою собственную печатную форму в HubEx для заявки?"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/PrintingFormDesigner.html"
 section: "user"
-content_hash: "c7e183b9389b3415"
+content_hash: "366e139147023c78"
 ---
 
 Инструкция по работе с печатными формами в HubEx
@@ -182,4 +182,4 @@ content_hash: "c7e183b9389b3415"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

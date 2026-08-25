@@ -2,7 +2,7 @@
 title: "Создание шаблона заявки, подача заявки по QR-коду"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/CreatingTaskTemplates.html"
 section: "user"
-content_hash: "129ba725d68f74d0"
+content_hash: "f61118567f2e132a"
 ---
 
 #### Создание шаблона заявки, подача заявки по QR-коду
@@ -275,4 +275,4 @@ QR-код будет проверяться на соответствие QR-к�
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

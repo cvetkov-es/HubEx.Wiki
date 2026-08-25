@@ -2,7 +2,7 @@
 title: "Общая аналитика"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/GeneralAnalytics.html"
 section: "user"
-content_hash: "595cca7967994b75"
+content_hash: "924a6170da7d927b"
 ---
 
 #### Общая аналитика
@@ -195,4 +195,4 @@ YouTube
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

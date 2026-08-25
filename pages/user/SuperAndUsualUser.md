@@ -2,7 +2,7 @@
 title: "Вход под учётной записью 'Владельца тенанта' и обычного пользователя тенанта"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/SuperAndUsualUser.html"
 section: "user"
-content_hash: "2e65af60639a81f8"
+content_hash: "777e623fd215bce1"
 ---
 
 #### Вход под учётной записью “Владельца тенанта” и обычного пользователя тенанта
@@ -26,4 +26,4 @@ content_hash: "2e65af60639a81f8"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

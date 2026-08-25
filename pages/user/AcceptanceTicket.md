@@ -2,7 +2,7 @@
 title: "Как исполнителю назначить на себя новую Заявку из общего списка?"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/AcceptanceTicket.html"
 section: "user"
-content_hash: "0ec6d97f872c1a27"
+content_hash: "08584defaf6b37e9"
 ---
 
 #### Как исполнителю назначить на себя новую заявку из общего списка?
@@ -95,4 +95,4 @@ content_hash: "0ec6d97f872c1a27"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

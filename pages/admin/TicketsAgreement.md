@@ -2,7 +2,7 @@
 title: "Согласование заявок"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketsAgreement.html"
 section: "admin"
-content_hash: "8bf546c8cb7ece68"
+content_hash: "2cd8460d0290bf63"
 ---
 
 #### Согласование заявок: линейное и параллельное согласование
@@ -767,4 +767,4 @@ push-уведомления
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

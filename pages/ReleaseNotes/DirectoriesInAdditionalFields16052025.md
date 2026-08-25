@@ -2,7 +2,7 @@
 title: "Системные справочники в дополнительных полях"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/DirectoriesInAdditionalFields16052025.html"
 section: "ReleaseNotes"
-content_hash: "6e0ab1e2b1e6b9ee"
+content_hash: "ad7440bf08a2033d"
 ---
 
 #### Справочники в дополнительных полях: обновление от 16.05.2025
@@ -78,4 +78,4 @@ content_hash: "6e0ab1e2b1e6b9ee"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

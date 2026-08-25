@@ -2,7 +2,7 @@
 title: "Отчет по сотрудникам"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/EngineersAnalytics.html"
 section: "user"
-content_hash: "2c44bee4890c4001"
+content_hash: "05a1b00610fb9a67"
 ---
 
 #### Отчет по сотрудникам
@@ -463,4 +463,4 @@ YouTube
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

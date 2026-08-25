@@ -2,7 +2,7 @@
 title: "Маркировка Честный знак (Data Matrix)"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/AboutDataMatrix.html"
 section: "user"
-content_hash: "4c8107aeffe95f62"
+content_hash: "6cfd97f22d87baa2"
 ---
 
 #### Data Matrix в HubEx: основные понятия
@@ -153,4 +153,4 @@ content_hash: "4c8107aeffe95f62"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

@@ -2,7 +2,7 @@
 title: "Обновления мобильного приложения HubEx для сервисной службы"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/EngineerApp.html"
 section: "ReleaseNotes"
-content_hash: "6b9414ce39da2f42"
+content_hash: "3386d01d28a1a275"
 ---
 
 #### Обновления мобильного приложения HubEx для сервисной службы
@@ -119,4 +119,4 @@ content_hash: "6b9414ce39da2f42"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

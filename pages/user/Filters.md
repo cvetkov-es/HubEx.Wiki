@@ -2,7 +2,7 @@
 title: "Список заявок, поиск заявок с помощью фильтров и строки поиска"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/Filters.html"
 section: "user"
-content_hash: "dff49f7cda90c8ac"
+content_hash: "7cc02fed9a76a052"
 ---
 
 #### Список заявок, поиск заявок с помощью фильтров и строки поиска
@@ -245,4 +245,4 @@ web- и мобильных приложениях читайте в статье
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

@@ -2,7 +2,7 @@
 title: "Типы заявок"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/admin/TicketType.html"
 section: "admin"
-content_hash: "4166476a7071aae8"
+content_hash: "f4ec07826fa27c9f"
 ---
 
 #### Типы заявок
@@ -97,4 +97,4 @@ content_hash: "4166476a7071aae8"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

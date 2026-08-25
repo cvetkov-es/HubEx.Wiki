@@ -2,7 +2,7 @@
 title: "Как изменить тип существующего оборудования?"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/ChangeOfObjectType.html"
 section: "user"
-content_hash: "af756b2b80496d9e"
+content_hash: "fba59b0415acc0cf"
 ---
 
 #### Как изменить тип существующего оборудования?
@@ -47,4 +47,4 @@ content_hash: "af756b2b80496d9e"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

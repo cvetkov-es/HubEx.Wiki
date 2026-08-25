@@ -2,7 +2,7 @@
 title: "Новая система маршрутизации по доменам"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/NewDomainRoutingSystem14072025.html"
 section: "ReleaseNotes"
-content_hash: "0c8eaece307ac649"
+content_hash: "5c1847d64f80a416"
 ---
 
 ## 🚀 Новая система маршрутизации по доменам - от 14.07.2025
@@ -68,4 +68,4 @@ content_hash: "0c8eaece307ac649"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

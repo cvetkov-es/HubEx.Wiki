@@ -2,7 +2,7 @@
 title: "Сообщения по заявке"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/Messages.html"
 section: "user"
-content_hash: "24bdd10d709cb3b1"
+content_hash: "08edd86df20e612a"
 ---
 
 #### Сообщения по заявке
@@ -124,4 +124,4 @@ YouTube
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

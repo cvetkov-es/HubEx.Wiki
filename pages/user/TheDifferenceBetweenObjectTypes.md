@@ -2,7 +2,7 @@
 title: "Что делать, если при создании оборудования система просит указать родительский объект?"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/TheDifferenceBetweenObjectTypes.html"
 section: "user"
-content_hash: "3061142c41ac5840"
+content_hash: "d851a514e8691906"
 ---
 
 #### Что делать, если при создании оборудования система просит указать родительский объект?
@@ -35,4 +35,4 @@ content_hash: "3061142c41ac5840"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

@@ -2,7 +2,7 @@
 title: "Подтверждение пребывания на объекте: обновление от 23.03.2023"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/QRStayMark23022023.html"
 section: "ReleaseNotes"
-content_hash: "e4c19bd710351d86"
+content_hash: "87bea0955eb987f3"
 ---
 
 #### Подтверждение пребывания на объекте: обновление от 23.02.2023
@@ -48,4 +48,4 @@ QR-код будет проверяться на соответствие QR-к�
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

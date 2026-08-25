@@ -2,7 +2,7 @@
 title: "Шаблоны ответов"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/AnswerTemplate.html"
 section: "user"
-content_hash: "e32f0b4ba81e4fdd"
+content_hash: "3db63bb3da242750"
 ---
 
 #### Шаблоны ответов
@@ -73,4 +73,4 @@ content_hash: "e32f0b4ba81e4fdd"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

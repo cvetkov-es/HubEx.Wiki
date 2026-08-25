@@ -2,7 +2,7 @@
 title: "Чек-листы"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/Checklists.html"
 section: "user"
-content_hash: "ce1ff57b0f9644af"
+content_hash: "8b4d0b0839e6fba0"
 ---
 
 # Чек-листы
@@ -179,4 +179,4 @@ YouTube
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

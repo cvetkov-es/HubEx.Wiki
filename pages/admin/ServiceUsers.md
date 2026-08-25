@@ -2,7 +2,7 @@
 title: "Служебные пользователи"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/admin/ServiceUsers.html"
 section: "admin"
-content_hash: "4fb065f9e9d6c93b"
+content_hash: "c995536ebd5e4c12"
 ---
 
 #### Служебные пользователи
@@ -73,4 +73,4 @@ content_hash: "4fb065f9e9d6c93b"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

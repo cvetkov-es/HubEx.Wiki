@@ -2,7 +2,7 @@
 title: "Автоназначение на ближайшего исполнителя"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/RulesOfChoiceGEO.html"
 section: "user"
-content_hash: "97114b8fe4d7cb4e"
+content_hash: "ddfaa669657b674d"
 ---
 
 #### Автоназначение на ближайшего исполнителя
@@ -122,4 +122,4 @@ YouTube
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

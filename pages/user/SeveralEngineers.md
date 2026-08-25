@@ -2,7 +2,7 @@
 title: "Как выбрать нескольких исполнителей в заявке"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/SeveralEngineers.html"
 section: "user"
-content_hash: "c53c9ba338852eee"
+content_hash: "28d0fe813ff99ad5"
 ---
 
 #### Как выбрать нескольких исполнителей в заявке
@@ -250,4 +250,4 @@ content_hash: "c53c9ba338852eee"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

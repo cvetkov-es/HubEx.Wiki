@@ -2,7 +2,7 @@
 title: "Актуальность заявки"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/admin/Actuality.html"
 section: "admin"
-content_hash: "c8c075268f237ee2"
+content_hash: "994af91d805e9258"
 ---
 
 #### Актуальность заявки
@@ -27,4 +27,4 @@ content_hash: "c8c075268f237ee2"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

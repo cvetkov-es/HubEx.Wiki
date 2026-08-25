@@ -2,7 +2,7 @@
 title: "QR-код в HubEx. Основные понятия и применение"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/QRcodeMain.html"
 section: "user"
-content_hash: "084c44bf995da48a"
+content_hash: "ece420efd915d3d2"
 ---
 
 #### QR-код в HubEx: основные понятия
@@ -35,4 +35,4 @@ HubEx) или создать свой в web-приложении, затем р
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

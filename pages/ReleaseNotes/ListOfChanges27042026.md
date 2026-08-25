@@ -2,7 +2,7 @@
 title: "Дополнительные поля-справочники для выполненных работ, просмотр заявки в боковом окне из списка"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ListOfChanges27042026.html"
 section: "ReleaseNotes"
-content_hash: "8667193f936e5896"
+content_hash: "4cb4f968b06487b3"
 ---
 
 ### **🪟 Просмотр заявок из списка в боковом окне**
@@ -122,4 +122,4 @@ content_hash: "8667193f936e5896"
 
 ---
 
-[Перейти в меню](http://wiki.hubex.ru)
+[Перейти в меню](https://wiki.hubex.ru/)

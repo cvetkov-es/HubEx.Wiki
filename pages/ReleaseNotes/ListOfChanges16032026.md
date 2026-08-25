@@ -2,7 +2,7 @@
 title: "Поддержка дополнительных полей-справочников для чек-листов, Редактирование выполненных работ (ВР) в офлайн-режиме"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ListOfChanges16032026.html"
 section: "ReleaseNotes"
-content_hash: "d13909d99ac1e466"
+content_hash: "4615548c9486b45d"
 ---
 
 ### **📋 Чек-листы HubEx: поддержка дополнительных полей-справочников в МП и WEB**
@@ -110,4 +110,4 @@ content_hash: "d13909d99ac1e466"
 
 ---
 
-[Перейти в меню](http://wiki.hubex.ru)
+[Перейти в меню](https://wiki.hubex.ru/)

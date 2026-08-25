@@ -2,7 +2,7 @@
 title: "Календарь заявок"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/Calendar.html"
 section: "user"
-content_hash: "b4ac64a10073bc69"
+content_hash: "eee78deea9003e2b"
 ---
 
 #### Календарь заявок
@@ -446,4 +446,4 @@ push-уведомление с текстом «С вас была снята з
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

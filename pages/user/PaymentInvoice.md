@@ -2,7 +2,7 @@
 title: "Счет на оплату"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/PaymentInvoice.html"
 section: "user"
-content_hash: "64c6703c5014c584"
+content_hash: "8dd1d9923be2c3ba"
 ---
 
 #### Счет на оплату
@@ -96,4 +96,4 @@ YouTube
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

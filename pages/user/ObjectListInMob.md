@@ -2,7 +2,7 @@
 title: "Список объектов и оборудования, история обслуживания объектов"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/ObjectListInMob.html"
 section: "user"
-content_hash: "56cabfb1c2431639"
+content_hash: "1e722b79c085dbc3"
 ---
 
 #### Список объектов и оборудования, история обслуживания объектов
@@ -76,4 +76,4 @@ HubEx заказчик при сканировании QR-кода по кноп
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

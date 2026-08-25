@@ -2,7 +2,7 @@
 title: "Вкладка Договоры в объекте, Массовый перевод заявок по стадиям, Иерархия в истории обслуживания объекта"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ListOfChanges25062025.html"
 section: "ReleaseNotes"
-content_hash: "47dd7f6f788ae4b5"
+content_hash: "f2dbe1b0a0ef6e8a"
 ---
 
 ## 📆 Массовый перевод заявок, Иерархия обслуживания по объекту, Список договоров в объекте - доработки от 25.06.2025
@@ -134,4 +134,4 @@ content_hash: "47dd7f6f788ae4b5"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

@@ -2,7 +2,7 @@
 title: "📢 Новое в HubEx: фильтр 'Тип заявки' в расписании"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/TaskTypeInCalendarFilter22.05.25.html"
 section: "ReleaseNotes"
-content_hash: "72271c207116eb41"
+content_hash: "db59a0d0521b3dc5"
 ---
 
 #### Фильтр “Тип заявки” в расписании заявок: обновление от 22.05.2025
@@ -42,4 +42,4 @@ content_hash: "72271c207116eb41"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

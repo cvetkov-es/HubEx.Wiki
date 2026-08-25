@@ -2,7 +2,7 @@
 title: "Как обратиться в техническую поддержку?"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/HowToContactSupport.html"
 section: "user"
-content_hash: "abf0c68980df4cfc"
+content_hash: "c5cf3129153ec5f0"
 ---
 
 #### Как обратиться в техническую поддержку?
@@ -39,4 +39,4 @@ content_hash: "abf0c68980df4cfc"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

@@ -2,7 +2,7 @@
 title: "Вход в консоль администратора"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/admin/HowToEnterTheAdmin.html"
 section: "admin"
-content_hash: "919c4af098033e5e"
+content_hash: "d5038539e5d201e4"
 ---
 
 #### Вход в консоль администратора
@@ -42,4 +42,4 @@ YouTube
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

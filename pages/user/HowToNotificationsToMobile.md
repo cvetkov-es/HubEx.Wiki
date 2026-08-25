@@ -2,7 +2,7 @@
 title: "Проверка получения уведомлений от приложений HubEx"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/HowToNotificationsToMobile.html"
 section: "user"
-content_hash: "7a5ef712a2baec24"
+content_hash: "51b0173b30a202c0"
 ---
 
 #### Проверка получения уведомлений от приложений HubEx
@@ -31,4 +31,4 @@ content_hash: "7a5ef712a2baec24"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

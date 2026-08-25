@@ -2,7 +2,7 @@
 title: "Список объектов в МП и QR-стикеры для маркировки в web-приложении: обновление от 23.06.2023"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/ObjectListQRstickers23062023.html"
 section: "ReleaseNotes"
-content_hash: "dd4952ec03a8cff4"
+content_hash: "a821218e50d6a8fb"
 ---
 
 #### Список объектов в мобильном приложении и QR-стикеры для маркировки в web-приложении: обновление от 23.06.2023
@@ -64,4 +64,4 @@ HubEx пользователи. Это упростит вашу работу с
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

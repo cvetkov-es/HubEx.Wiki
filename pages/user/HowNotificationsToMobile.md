@@ -2,7 +2,7 @@
 title: "Как проверить возможность получения уведомлений?"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/HowNotificationsToMobile.html"
 section: "user"
-content_hash: "20fb28e982a273f2"
+content_hash: "477b86091bc225b2"
 ---
 
 #### Как проверить возможность получения уведомлений?
@@ -20,4 +20,4 @@ Samsung: https://www.samsung.com/ru/support/faqs/kak-otkljuchit-uvedomleniya/
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

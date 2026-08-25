@@ -2,7 +2,7 @@
 title: "Почему нельзя удалить объекты/сотрудников/заявки и т.д. навсегда?"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/DeletedObjects.html"
 section: "user"
-content_hash: "e26d13262dd24022"
+content_hash: "ea8af9fe2e4d9f9c"
 ---
 
 # Удаление объектов/сотрудников/заявок
@@ -253,4 +253,4 @@ content_hash: "e26d13262dd24022"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

@@ -2,7 +2,7 @@
 title: "Чем отличаются Классы оборудования от Участков?"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/admin/PlacesVSObjectsClass.html"
 section: "admin"
-content_hash: "f3a3726398998a1e"
+content_hash: "ea183731383587db"
 ---
 
 #### Чем отличаются Классы оборудования от Участков?
@@ -34,4 +34,4 @@ Apple и т.д. **Класс оборудования** устанавливае
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

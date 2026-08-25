@@ -2,7 +2,7 @@
 title: "Отчет Общая аналитика: обновление от 25.12.2020"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/ReleaseNotes/Analytics25122020.html"
 section: "ReleaseNotes"
-content_hash: "153f529d8dc2fd99"
+content_hash: "758fd9d164514374"
 ---
 
 #### Отчет Общая аналитика: обновление от 25.12.2020
@@ -60,4 +60,4 @@ content_hash: "153f529d8dc2fd99"
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)

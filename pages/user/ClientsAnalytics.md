@@ -2,7 +2,7 @@
 title: "Отчет для клиента"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/ClientsAnalytics.html"
 section: "user"
-content_hash: "a8737f5af207a766"
+content_hash: "1a7ede26a4ae49cf"
 ---
 
 #### Отчет для клиента
@@ -110,4 +110,4 @@ YouTube
 
 ---
 
-* [Перейти в меню](http://wiki.hubex.ru)
+* [Перейти в меню](https://wiki.hubex.ru/)
