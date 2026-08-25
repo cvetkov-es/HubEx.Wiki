@@ -1387,13 +1387,34 @@ def test_only_affected_sections_regenerated(tmp_path, monkeypatch):
 
     def fake(prompt, model=None):
         called.append(prompt)
-        return _sec_text("Жизненный цикл") if "Жизненный цикл" in prompt \
-            else _sec_text("Карта сущностей")
+        title = prompt.split("Название раздела: ", 1)[1].splitlines()[0].strip()
+        return _sec_text(title)
 
     res = pipeline.run_compact(changed_pages={"admin/BusinessProcess"}, root=root,
                                model_fn=fake, git_run=lambda a, c: "")
     assert [r["id"] for r in res["sections"]] == ["s01", "t01"]
     assert len(called) == 2
+
+
+def test_tier2_all_marker_sees_only_tier1_texts(tmp_path, monkeypatch):
+    root = _fixture(tmp_path)
+    (root / "context" / "map.tsv").write_text(
+        MAP + "t02\tСтоперы\t400\t@все\n", encoding="utf-8")
+    (root / assemble.SECTIONS_DIR_REL / "t02.md").write_text(_sec_text("Стоперы"),
+                                                             encoding="utf-8")
+    monkeypatch.setattr(pipeline.guard, "MIN_CHARS", 0)
+    seen = {}
+
+    def fake(prompt, model=None):
+        title = prompt.split("Название раздела: ", 1)[1].splitlines()[0].strip()
+        if title == "Стоперы":
+            seen["src"] = prompt.split("## Тексты разделов-источников\n", 1)[1]
+        return _sec_text(title)
+
+    pipeline.run_compact(changed_pages={"admin/BusinessProcess"}, root=root,
+                         model_fn=fake, git_run=lambda a, c: "")
+    assert "## Карта сущностей" not in seen["src"], "ярус 2 не должен видеть ярус 2"
+    assert "## Жизненный цикл" in seen["src"]
 
 
 def test_nothing_changed_means_no_model_calls(tmp_path, monkeypatch):
@@ -1432,15 +1453,17 @@ def _root(root):
     return root if root is not None else REPO_ROOT
 
 
-def _sources_text(section: dict, root: Path, texts: dict) -> str:
+def _sources_text(section: dict, root: Path, texts: dict, sections: list) -> str:
     if section["tier"] == 1:
         parts = []
         for pid in section["sources"]:
             p = root / "pages" / f"{pid}.md"
             parts.append(f"### Страница {pid}\n\n" + p.read_text(encoding="utf-8"))
         return "\n\n".join(parts)
-    refs = ([s for s in texts] if sectionmap.ALL_TIER1 in section["sources"]
-            else [r[1:] for r in section["sources"] if r != sectionmap.ALL_TIER1])
+    if sectionmap.ALL_TIER1 in section["sources"]:
+        refs = [s["id"] for s in sections if s["tier"] == 1]
+    else:
+        refs = [r[1:] for r in section["sources"] if r != sectionmap.ALL_TIER1]
     return "\n\n".join(texts[r] for r in refs if r in texts)
 
 
@@ -1469,8 +1492,8 @@ def run_compact(*, changed_pages=None, rebuild_all: bool = False, root: Path | N
     for sid in todo:
         s = by_id[sid]
         neighbours = [{"id": o["id"], "title": o["title"]} for o in sections if o["id"] != sid]
-        res = generate.generate(s, _sources_text(s, root, texts), neighbours, root,
-                                model_fn=model_fn)
+        res = generate.generate(s, _sources_text(s, root, texts, sections), neighbours,
+                                root, model_fn=model_fn)
         results.append(res)
         if not res["problems"]:
             texts[sid] = res["text"]
@@ -1497,7 +1520,7 @@ def run_compact(*, changed_pages=None, rebuild_all: bool = False, root: Path | N
 - [ ] **Step 4: Убедиться, что тесты проходят**
 
 Run: `cd tools && python3 -m pytest tests/test_compact_pipeline.py -v`
-Expected: PASS (2 passed)
+Expected: PASS (3 passed)
 
 - [ ] **Step 5: Написать падающий тест на отчёт и коды возврата**
 
@@ -1612,7 +1635,7 @@ def render(res: dict) -> str:
 - [ ] **Step 8: Убедиться, что тесты проходят**
 
 Run: `cd tools && python3 -m pytest tests/test_compact_pipeline.py -v`
-Expected: PASS (7 passed)
+Expected: PASS (8 passed)
 
 - [ ] **Step 9: Коммит**
 
