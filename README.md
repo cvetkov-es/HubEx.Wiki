@@ -26,7 +26,7 @@
 
 ## Правила
 
-- Страницы `pages/**` руками не правятся — их перезаписывает пайплайн. Правятся только индексы (точечно), README и tools.
+- Страницы `pages/**` руками не правятся — их перезаписывает пайплайн. Правятся только индексы (точечно), README, `tools` и файлы-состояния сжатого контекста: карта `context/map.tsv` и оверрайды дат `context/release-dates.tsv`. Вывод пайплайна — `context/sections/**` и `hubex-context.md` — тоже не правится руками.
 - Не выдумывай факты о продукте: нет в страницах — так и скажи.
 - URL страницы на вики: поле `url` во frontmatter; общее правило `pages/<section>/<slug>.md` ↔ `https://wiki.hubex.ru/docs/FAQ/RU/<section>/<slug>.html`. Slug в имени файла URL-декодирован: страницы с кириллицей в адресе лежат как `pages/ReleaseNotes/cкладской-документ-….md`, а в `url` тот же slug percent-encoded.
 - Кросс-ссылки между курируемыми страницами — локальные относительные; картинки и прочие ссылки — абсолютные URL вики.
@@ -88,12 +88,12 @@ python3 tools/wiki_cli.py export-llms [--out dist]
 Файл собирается пайплайном из разделов `context/sections/**` по карте `context/map.tsv` (тема раздела, бюджет символов, страницы-источники):
 
 ```
-python3 tools/wiki_cli.py compact [--all] [--page <section>/<slug>] [--report-file PATH]
+python3 tools/wiki_cli.py compact [--all] [--page <section>/<slug>] [--section <id>] [--report-file PATH]
 ```
 
 Ночной `sync` пересобирает файл сам по изменившимся страницам — руками запускать `compact` нужно только точечно (например, после правки карты). Детали и коды возврата — [tools/README.md](tools/README.md).
 
-Карту `context/map.tsv` — какие страницы в какой раздел и с каким бюджетом попадают — ведёт человек. `context/sections/**` и `hubex-context.md` руками не правятся, это вывод пайплайна.
+Карту `context/map.tsv` — какие страницы в какой раздел и с каким бюджетом попадают — ведёт человек; там же рядом необязательный `context/release-dates.tsv` с ручными датами релизов (`ReleaseNotes/<slug>` \t `ГГГГ-ММ-ДД`, формат — в [tools/README.md](tools/README.md)). `context/sections/**` и `hubex-context.md` руками не правятся, это вывод пайплайна. Упавший раздел чинится точечно: `compact --section <id>` из отчёта.
 
 ## Комбинирование с другими доменами
 
