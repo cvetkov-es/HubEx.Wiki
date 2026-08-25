@@ -22,7 +22,7 @@ s21	Платформа и деплой	5500	admin/AboutHubEx admin/HowToEnterThe
 s22	Геонастройки устройств	2200	user/MobileDevice user/GeoSettings user/GEOinMob
 s23	Первые шаги, база знаний и брендирование	3600	user/HubExStepByStep user/KnowledgeBase user/HubExAI user/Branding user/Glossary user/HubExVids
 s24	Интеграции, API и клиентские приложения	5400	admin/RESTAPI admin/StartIntegrationAPI admin/ExampleRequestsAPI admin/Integration admin/IntegrationBitrix24 admin/SSOintegration user/HowToManageGmailIntegration user/CustomerApp user/CustomerWeb
-t01	Карта сущностей и связей	6000	@s01 @s02 @s06 @s07 @s09 @s12
-t02	Паттерны посадки процессов клиента	9000	@s01 @s04 @s05 @s09 @s11 @s12 @s16 @s23
+t01	Карта сущностей и связей	6000	@s01 @s02 @s03 @s05 @s06 @s09 @s12
+t02	Паттерны посадки процессов клиента	9000	@s01 @s02 @s03 @s08 @s09 @s12 @s14
 t03	Ограничения-стоперы	3000	@все
 t04	Позиционирование против смежных классов	3000	@s21
