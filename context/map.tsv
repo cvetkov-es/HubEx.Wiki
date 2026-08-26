@@ -1,27 +1,27 @@
 s01	Жизненный цикл заявки	6000	admin/BusinessProcess admin/TicketLifeCycle admin/StageType admin/StatusType admin/StageVSStatus admin/TicketType
-s02	Атрибуты, согласование и приоритизация заявок	4600	admin/TicketAttribute admin/TicketsAgreement admin/CustomerAgreement admin/Actuality admin/Criticality user/ChoiceWorkType user/Filters user/HistoryOfChanges
-s03	Создание и действия с заявками	5200	user/CreatingTicket user/ChangingStatus user/ChildTicket user/ElectedTicket user/AcceptanceTicket user/SeveralEngineers user/PlannedTickets user/PlannedTicketsSchedule
-s04	Доступ к заявкам, альтернативные каналы и групповые действия	3600	user/GroupActionsForTickets admin/ElementsOfInterface user/HowToDealWithWhiteScreen user/UsersRequests user/AlternativeWays admin/TicketMail user/HiddenObjectsTicketsUsers
+s02	Атрибуты, согласование и приоритизация заявок	6450	admin/TicketAttribute admin/TicketsAgreement admin/CustomerAgreement admin/Actuality admin/Criticality user/ChoiceWorkType user/Filters user/HistoryOfChanges
+s03	Создание и действия с заявками	6900	user/CreatingTicket user/ChangingStatus user/ChildTicket user/ElectedTicket user/AcceptanceTicket user/SeveralEngineers user/PlannedTickets user/PlannedTicketsSchedule
+s04	Доступ к заявкам, альтернативные каналы и групповые действия	6700	user/GroupActionsForTickets admin/ElementsOfInterface user/HowToDealWithWhiteScreen user/UsersRequests user/AlternativeWays admin/TicketMail user/HiddenObjectsTicketsUsers
 s05	Типы и классы объектов	3600	admin/ObjectsType admin/ObjectClass admin/PlacesVSObjectsClass user/TheDifferenceBetweenObjectTypes user/ChangeOfObjectType user/CreatingObjects
-s06	Создание и редактирование объектов	2600	user/CreatingObjTemplates user/ObjectEditing user/MobileObjects user/ObjectListInMob user/DeletedObjects
-s07	QR-коды, паспорт и планы объектов	2600	user/FloorPlan user/HowToMakePassport user/CreatingTaskTemplates user/QRcodeMain user/GroupActions
-s08	Компании и договоры	2400	user/CreatingCompany user/CreatingCustomer user/CreatingUser user/Contacts user/ContractSchedule
-s09	Роли, полномочия и участки	6500	admin/Roles admin/Powers admin/UI_Permissions admin/Places admin/Skills admin/ServiceUsers
+s06	Создание и редактирование объектов	3100	user/CreatingObjTemplates user/ObjectEditing user/MobileObjects user/ObjectListInMob user/DeletedObjects
+s07	QR-коды, паспорт и планы объектов	3050	user/FloorPlan user/HowToMakePassport user/CreatingTaskTemplates user/QRcodeMain user/GroupActions
+s08	Компании и договоры	3650	user/CreatingCompany user/CreatingCustomer user/CreatingUser user/Contacts user/ContractSchedule
+s09	Роли, полномочия и участки	8400	admin/Roles admin/Powers admin/UI_Permissions admin/Places admin/Skills admin/ServiceUsers
 s10	Отличия ролей и вход в систему	2600	user/RoleVSPosition user/SuperAndUsualUser user/EngineerVSCustomer user/EnterToMob user/SelfRegister
-s11	Приглашения, доступ и графики работы	2600	user/HowToSendInvitation user/ViewRestriction admin/WorkSchedule user/Schedule user/OnDuty
+s11	Приглашения, доступ и графики работы	3350	user/HowToSendInvitation user/ViewRestriction admin/WorkSchedule user/Schedule user/OnDuty
 s12	SLA, автоназначение и чек-листы	5000	admin/SLA admin/RulesOfChoice user/RulesOfChoiceGEO admin/WorkType user/Checklists
 s13	Работы, акты приёмки и материалы в заявке	3800	user/ActOFAcceptance user/AttachingFiles user/Prices user/Rating user/OfflineMode user/TicketWithMaterials
-s14	Склад, материалы и маркировка	4800	user/Materials user/MaterialsNew user/InventoryAccounting user/SettingsWithMaterials user/Withdrawals user/WarehouseOperations user/Warehouses user/WarehousesGoodsReceipt user/AboutDataMatrix
-s15	Печатные формы	1800	user/PrintedFormAct user/PrintedFormActOfAccounting user/PrintingFormDesigner user/PaymentInvoice
-s16	Чаты, сообщения и доп.поля	2200	user/Messages user/AnswerTemplate admin/TelegramIntegration user/HowToContactSupport user/AdditionalFields
+s14	Склад, материалы и маркировка	5000	user/Materials user/MaterialsNew user/InventoryAccounting user/SettingsWithMaterials user/Withdrawals user/WarehouseOperations user/Warehouses user/WarehousesGoodsReceipt user/AboutDataMatrix
+s15	Печатные формы	2550	user/PrintedFormAct user/PrintedFormActOfAccounting user/PrintingFormDesigner user/PaymentInvoice
+s16	Чаты, сообщения и доп.поля	3600	user/Messages user/AnswerTemplate admin/TelegramIntegration user/HowToContactSupport user/AdditionalFields
 s17	Уведомления	3000	admin/Notifications user/NotificationInMob user/NotificationInWeb user/HowToManageNotifications user/HowNotificationsToMobile user/HowToNotificationsToMobile
-s18	Аналитика Power BI	3800	user/GeneralAnalytics user/EngineersAnalytics user/ObjectsAnalytics user/ClientsAnalytics user/ProcessEfficiency
-s19	Отчёты и экспорт	2000	user/TicketsReport user/Export user/Import user/Calendar
+s18	Аналитика Power BI	6200	user/GeneralAnalytics user/EngineersAnalytics user/ObjectsAnalytics user/ClientsAnalytics user/ProcessEfficiency
+s19	Отчёты и экспорт	4100	user/TicketsReport user/Export user/Import user/Calendar
 s20	Геотрекинг и карта	2600	user/GeoPosition user/Geotracking user/TicketsOnMap user/UserOnMap user/RouteToObject
 s21	Платформа и деплой	5500	admin/AboutHubEx admin/HowToEnterTheAdmin admin/Deployment admin/OnPremise
-s22	Геонастройки устройств	2200	user/MobileDevice user/GeoSettings user/GEOinMob
-s23	Первые шаги, база знаний и брендирование	3600	user/HubExStepByStep user/KnowledgeBase user/HubExAI user/Branding user/Glossary user/HubExVids
-s24	Интеграции, API и клиентские приложения	5400	admin/RESTAPI admin/StartIntegrationAPI admin/ExampleRequestsAPI admin/Integration admin/IntegrationBitrix24 admin/SSOintegration user/HowToManageGmailIntegration user/CustomerApp user/CustomerWeb
+s22	Геонастройки устройств	2250	user/MobileDevice user/GeoSettings user/GEOinMob
+s23	Первые шаги, база знаний и брендирование	3850	user/HubExStepByStep user/KnowledgeBase user/HubExAI user/Branding user/Glossary user/HubExVids
+s24	Интеграции, API и клиентские приложения	5850	admin/RESTAPI admin/StartIntegrationAPI admin/ExampleRequestsAPI admin/Integration admin/IntegrationBitrix24 admin/SSOintegration user/HowToManageGmailIntegration user/CustomerApp user/CustomerWeb
 t01	Карта сущностей и связей	6000	@s01 @s02 @s03 @s05 @s06 @s09 @s12
 t02	Паттерны посадки процессов клиента	9000	@s01 @s02 @s03 @s08 @s09 @s12 @s14
 t03	Ограничения-стоперы	3000	@s01 @s02 @s03 @s09 @s10 @s12 @s19 @s21 @s24
