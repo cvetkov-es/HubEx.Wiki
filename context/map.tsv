@@ -7,7 +7,7 @@ s06	Создание и редактирование объектов	3100	user/
 s07	QR-коды, паспорт и планы объектов	3050	user/FloorPlan user/HowToMakePassport user/CreatingTaskTemplates user/QRcodeMain user/GroupActions
 s08	Компании и договоры	3650	user/CreatingCompany user/CreatingCustomer user/CreatingUser user/Contacts user/ContractSchedule
 s09	Роли, полномочия и участки	8400	admin/Roles admin/Powers admin/UI_Permissions admin/Places admin/Skills admin/ServiceUsers
-s10	Отличия ролей и вход в систему	2600	user/RoleVSPosition user/SuperAndUsualUser user/EngineerVSCustomer user/EnterToMob user/SelfRegister
+s10	Отличия ролей и вход в систему	5000	user/RoleVSPosition user/SuperAndUsualUser user/EngineerVSCustomer user/EnterToMob user/SelfRegister
 s11	Приглашения, доступ и графики работы	3400	user/HowToSendInvitation user/ViewRestriction admin/WorkSchedule user/Schedule user/OnDuty
 s12	SLA, автоназначение и чек-листы	5000	admin/SLA admin/RulesOfChoice user/RulesOfChoiceGEO admin/WorkType user/Checklists
 s13	Работы, акты приёмки и материалы в заявке	3800	user/ActOFAcceptance user/AttachingFiles user/Prices user/Rating user/OfflineMode user/TicketWithMaterials
