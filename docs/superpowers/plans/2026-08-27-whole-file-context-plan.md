@@ -1625,7 +1625,7 @@ cd /home/cvetkov_es/development/HubEx.Wiki && git add -A && git commit -m "chore
 
 - [ ] **Step 3: Проставить ссылку в старом спеке**
 
-В начало `docs/superpowers/specs/2026-08-25-compact-context-design.md` добавить строку: «Архитектурная часть отменена [2026-08-27-whole-file-context-design.md](2026-08-27-whole-file-context-design.md) по итогам замера. Документ сохранён ради обоснований, переживших смену метода».
+В начало `docs/superpowers/specs/2026-08-25-compact-context-design.md` добавить строку: «Архитектурная часть отменена `[2026-08-27-whole-file-context-design.md](2026-08-27-whole-file-context-design.md)` по итогам замера. Документ сохранён ради обоснований, переживших смену метода».
 
 - [ ] **Step 4: Коммит**
 
