@@ -900,6 +900,218 @@ git commit -m "feat: сжатый контекст собран цельным �
 
 ---
 
+### Task 5a: Сборка из готового тела и запас по времени
+
+Живой прогон 2026-08-27 упал по таймауту на 90-й минуте, **дописав тело полностью**:
+157 720 символов, 36 разделов, 137 страниц из 137, ноль битых ссылок. Пробная
+детерминированная сборка дала 163 247 символов, ноль проблем, ноль предупреждений,
+градиент 0.99. Результат годен — провалился процесс.
+
+Задача чинит три вскрытых дыры: нет способа собрать файл из готового тела; таймаут мал;
+допуск оставил зазор в 1 753 символа при вдвое более далёком реальном ограничении.
+
+**Files:**
+- Modify: `update/model_client.py` (константа `AGENT_TIMEOUT`)
+- Modify: `compact/guard.py` (константа `WHOLE_MAX_RATIO`)
+- Modify: `compact/pipeline.py` (`run_rebuild` получает `reuse_body`)
+- Modify: `compact/report.py` (`render_whole` печатает дату тела)
+- Modify: `wiki_cli.py` (флаг `--from-body`)
+- Test: `tests/test_model_client.py`, `tests/test_compact_guard.py`, `tests/test_compact_pipeline.py`, `tests/test_cli.py`
+
+**Interfaces:**
+- Consumes: `wholegen.BODY_REL`, `wholegen.rebuild`, `assemble.build_whole`, `guard.whole_file_problems`, `guard.whole_file_warnings`, `releases.latest`
+- Produces: `pipeline.run_rebuild(*, root=None, agent_fn=None, git_run=None, releases_n=5, built_on=None, reuse_body: bool = False)` — при `reuse_body=True` модель не зовётся вовсе, тело читается с диска; результат той же формы, плюс ключ `body_mtime: str | None` (ISO-дата изменения тела, `None` если тела нет)
+
+- [ ] **Step 1: Написать падающие тесты**
+
+```python
+def test_agent_timeout_is_three_hours():
+    # Прогон 2026-08-27 упёрся в 90 минут, дописав тело. Квартальная операция может
+    # позволить себе три часа — цена промаха здесь полтора часа работы модели.
+    assert model_client.AGENT_TIMEOUT == 10800
+
+
+def test_whole_file_ceiling_has_room_above_target():
+    # Файл лёг в 1 753 символа от прежнего потолка. Реальное ограничение — порог
+    # извлечения Claude Projects — вдвое дальше, ужимать себя незачем.
+    assert guard.WHOLE_MAX_RATIO == 1.25
+    assert int(guard.WHOLE_TARGET * guard.WHOLE_MAX_RATIO) == 187_500
+
+
+def test_run_rebuild_reuse_body_does_not_call_model(tmp_path):
+    _mkwiki(tmp_path, ["user/CreatingTicket"])
+    body = tmp_path / wholegen.BODY_REL
+    body.parent.mkdir(parents=True, exist_ok=True)
+    body.write_text(BODY, encoding="utf-8")
+
+    def must_not_run(*a, **kw):
+        raise AssertionError("модель не должна вызываться при reuse_body")
+
+    res = pipeline.run_rebuild(root=tmp_path, agent_fn=must_not_run, reuse_body=True,
+                               git_run=lambda *a, **k: "", built_on="2026-08-27")
+    assert res["written"] is True
+    assert res["problems"] == []
+    assert "## Заявки" in (tmp_path / assemble.OUT_REL).read_text(encoding="utf-8")
+
+
+def test_run_rebuild_reuse_body_reports_missing_body(tmp_path):
+    _mkwiki(tmp_path, ["user/CreatingTicket"])
+    res = pipeline.run_rebuild(root=tmp_path, reuse_body=True,
+                               git_run=lambda *a, **k: "", built_on="2026-08-27")
+    assert res["written"] is False
+    assert any("тела нет" in p for p in res["problems"])
+
+
+def test_run_rebuild_reports_body_mtime(tmp_path):
+    _mkwiki(tmp_path, ["user/CreatingTicket"])
+    body = tmp_path / wholegen.BODY_REL
+    body.parent.mkdir(parents=True, exist_ok=True)
+    body.write_text(BODY, encoding="utf-8")
+    res = pipeline.run_rebuild(root=tmp_path, agent_fn=lambda *a, **kw: None,
+                               reuse_body=True, git_run=lambda *a, **k: "",
+                               built_on="2026-08-27")
+    assert res["body_mtime"] is not None
+    assert res["body_mtime"].startswith("20")
+
+
+def test_render_whole_shows_body_date():
+    res = {"mode": "rebuild", "written": True, "problems": [], "warnings": [],
+           "undated": [], "date_problems": [], "chars": 163247,
+           "body_mtime": "2026-08-27T11:27:27", "out": Path("hubex-context.md")}
+    out = report.render_whole(res)
+    assert "2026-08-27T11:27:27" in out
+
+
+def test_cli_from_body_passes_reuse_flag(monkeypatch, capsys):
+    seen = {}
+
+    def fake(**kw):
+        seen.update(kw)
+        return {"mode": "rebuild", "written": True, "problems": [], "warnings": [],
+                "undated": [], "date_problems": [], "chars": 163247,
+                "body_mtime": None, "out": Path("hubex-context.md")}
+
+    monkeypatch.setattr(wiki_cli.compact_pipeline, "run_rebuild", fake)
+    assert wiki_cli.main(["compact", "--rebuild", "--from-body"]) == 0
+    assert seen["reuse_body"] is True
+```
+
+- [ ] **Step 2: Запустить, убедиться что падает**
+
+Run: `cd tools && python3 -m pytest tests/ -v -k "reuse_body or body_mtime or from_body or three_hours or ceiling_has_room or body_date"`
+Expected: FAIL — `AssertionError: assert 5400 == 10800` и `TypeError: run_rebuild() got an unexpected keyword argument 'reuse_body'`
+
+- [ ] **Step 3: Поднять константы**
+
+В `update/model_client.py`:
+
+```python
+# Прогон 2026-08-27 упёрся в прежние 90 минут, успев дописать тело целиком: работа была
+# сделана, не вернулось управление. Полная сборка — операция квартальная, три часа она
+# себе позволить может, а цена промаха здесь — полтора часа работы модели впустую.
+AGENT_TIMEOUT = 10800
+```
+
+В `compact/guard.py`:
+
+```python
+# Допуск, а не жёсткая граница на символ. Прогон 2026-08-27 лёг в 1 753 символа от
+# прежнего потолка 1.10 — волосок. Настоящее ограничение лежит вдвое дальше: Claude
+# Projects держит знания целиком примерно до 150 тыс. токенов (≈375 тыс. символов
+# русского текста), выше уходит в извлечение и перестаёт видеть файл целиком, ради чего
+# всё и затевалось. ChatGPT (2 млн токенов на файл) и DeepSeek (контекст 1 млн) не
+# ограничивают вовсе. Тот же размен, что и с бюджетами разделов: жёсткий гейт превращал
+# «чуть больше нужного» в «прогон встал».
+WHOLE_MAX_RATIO = 1.25
+```
+
+- [ ] **Step 4: Режим сборки из готового тела**
+
+В `compact/pipeline.py` заменить сигнатуру и начало `run_rebuild`:
+
+```python
+def run_rebuild(*, root: Path | None = None, agent_fn=None, git_run=None,
+                releases_n: int = 5, built_on: str | None = None,
+                reuse_body: bool = False) -> dict:
+    """Полная пересборка: агент пишет тело, пайплайн оборачивает его и проверяет.
+
+    `reuse_body` собирает файл из уже лежащего на диске `context/body.md`, не зовя
+    модель. Это путь восстановления: генерация идёт больше часа, и её результат не
+    должен пропадать из-за того, что обёртка не дождалась ответа. Дата тела уходит в
+    отчёт — собрать из позавчерашнего тела не запрещено, но человек обязан это увидеть.
+
+    Прежний файл переживает провал: пишем только после того, как guard дал добро.
+    Устаревший цельный файл честен, свежий файл с дырой врёт умолчанием.
+    """
+    root = _root(root)
+    built_on = built_on or date.today().isoformat()
+    out = root / assemble.OUT_REL
+    body_path = root / wholegen.BODY_REL
+    body_mtime = (datetime.fromtimestamp(body_path.stat().st_mtime).isoformat(timespec="seconds")
+                  if body_path.exists() else None)
+    if reuse_body:
+        if not body_path.exists():
+            return {"mode": "rebuild", "written": False,
+                    "problems": [f"тела нет: {wholegen.BODY_REL}. "
+                                 f"Сначала полная сборка без --from-body."],
+                    "warnings": [], "undated": [], "date_problems": [], "chars": 0,
+                    "body_mtime": None, "out": out}
+        gen = {"body": body_path.read_text(encoding="utf-8"), "problems": []}
+    else:
+        gen = wholegen.rebuild(root, **({} if agent_fn is None else {"agent_fn": agent_fn}))
+        body_mtime = (datetime.fromtimestamp(body_path.stat().st_mtime).isoformat(timespec="seconds")
+                      if body_path.exists() else None)
+    if gen["problems"]:
+        return {"mode": "rebuild", "written": False, "problems": gen["problems"],
+                "warnings": [], "undated": [], "date_problems": [], "chars": 0,
+                "body_mtime": body_mtime, "out": out}
+```
+
+Дальше тело функции остаётся прежним, но во **все** возвращаемые словари добавляется
+`"body_mtime": body_mtime`.
+
+Импорт добавить в шапку модуля: `from datetime import date, datetime` (сейчас там
+`from datetime import date`).
+
+- [ ] **Step 5: Дата тела в отчёте**
+
+В `compact/report.py`, в `render_whole`, после строки с размером файла:
+
+```python
+    if res.get("body_mtime"):
+        lines.append(f"- тело собрано из: {res['body_mtime']}")
+```
+
+- [ ] **Step 6: Флаг CLI**
+
+В `wiki_cli.py` к парсеру `compact`:
+
+```python
+    cp.add_argument("--from-body", action="store_true",
+                    help="собрать файл из уже готового context/body.md, не зовя модель "
+                         "(путь восстановления, если генерация прошла, а обёртка не дождалась)")
+```
+
+и в ветке `--rebuild` передать флаг:
+
+```python
+        res = compact_pipeline.run_rebuild(reuse_body=args.from_body)
+```
+
+- [ ] **Step 7: Прогнать все тесты**
+
+Run: `cd tools && python3 -m pytest -q`
+Expected: PASS, ни один существующий тест не сломан
+
+- [ ] **Step 8: Коммит**
+
+```bash
+cd tools && git add -A
+git commit -m "feat: сборка из готового тела, запас по времени и допуску"
+```
+
+---
+
 ### Task 6: Промпт и механизм правки по диффу
 
 **Files:**
