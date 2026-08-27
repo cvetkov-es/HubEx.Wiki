@@ -869,7 +869,7 @@ cd /home/cvetkov_es/development/HubEx.Wiki && git status --short
 cd /home/cvetkov_es/development/HubEx.Wiki && time python3 tools/wiki_cli.py compact --rebuild --report-file /tmp/rebuild-report.md
 ```
 
-Expected: код возврата 0, файл `hubex-context.md` записан, размер в отчёте 135 000–165 000 символов. Ожидаемое время — около часа.
+Expected: код возврата 0, файл `hubex-context.md` записан, размер в отчёте 127 500–165 000 символов (границы предупреждения и потолка из `guard`). Ожидаемое время — около часа.
 
 - [ ] **Step 3: Проверить результат независимо от отчёта**
 
@@ -905,15 +905,42 @@ git commit -m "feat: сжатый контекст собран цельным �
 **Files:**
 - Create: `compact/prompts/patch.md`
 - Create: `compact/patch.py`
+- Create: `compact/pagetext.py`
+- Modify: `compact/pipeline.py` (перенос двух функций, см. шаг 0)
+- Modify: `tests/test_compact_pipeline.py` (импорт перенесённых функций)
 - Test: `tests/test_compact_patch.py`
 
 **Interfaces:**
-- Consumes: `model_client.run_agent`, `pipeline.significant` (существует)
+- Consumes: `model_client.run_agent`, `pagetext.significant`
+- Produces: `pagetext.significant(text: str) -> str`, `pagetext.drop_cosmetic(changed_pages, root, previous) -> tuple` — перенесены из `compact/pipeline.py` без изменения поведения
 - Produces:
   - `patch.MODEL = "opus"`, `patch.TIMEOUT = 1800`
   - `patch.page_diff(pid: str, old: str, new: str) -> str` — unified diff содержательных частей
   - `patch.build_prompt(*, diffs: str, body_rel: str, target_chars: int) -> str`
   - `patch.apply(root: Path, *, changed: dict, previous: dict, agent_fn=None) -> dict` → `{"body": str, "problems": list, "chars": int, "pages": list}`; `changed` — `{pid: новый текст}`, `previous` — `{pid: прежний текст}`
+
+- [ ] **Step 0: Разорвать будущий цикл импорта**
+
+`patch.py` нужен `significant`, а он лежит в `compact/pipeline.py`, куда Задача 7 добавит
+импорт `patch`. Это цикл `pipeline → patch → pipeline`. Python его переживёт, но держать
+такое незачем.
+
+Создать `compact/pagetext.py` и перенести туда из `compact/pipeline.py` **без изменения
+поведения**: константы `_FRONTMATTER_RE`, `_NAV_TAIL_RE` и функции `significant`,
+`drop_cosmetic` вместе со всеми их комментариями — комментарии там объясняют, почему
+регулярки именно такие, и стоят дороже кода.
+
+В `compact/pipeline.py` заменить их определения на `from compact import pagetext` и
+обращения `pagetext.significant`, `pagetext.drop_cosmetic`. В `tests/test_compact_pipeline.py`
+поправить импорт у тестов этих двух функций — сами тесты не трогать.
+
+Проверка переноса: `cd tools && python3 -m pytest tests/test_compact_pipeline.py -v` —
+все существующие тесты обязаны остаться зелёными. Отдельный коммит:
+
+```bash
+cd tools && git add compact/pagetext.py compact/pipeline.py tests/test_compact_pipeline.py
+git commit -m "refactor: работа с текстом страницы отдельным модулем — до цикла импорта"
+```
 
 - [ ] **Step 1: Написать промпт**
 
@@ -1055,7 +1082,7 @@ import difflib
 from functools import partial
 from pathlib import Path
 
-from compact import pipeline as compact_pipeline, wholegen
+from compact import pagetext, wholegen
 from update import model_client
 
 PROMPTS = Path(__file__).resolve().parent / "prompts"
@@ -1073,8 +1100,8 @@ def page_diff(pid: str, old: str, new: str) -> str:
     Косметическая правка шаблона обязана давать пустой дифф, иначе модель полезет
     править файл без причины.
     """
-    a = compact_pipeline.significant(old).splitlines(keepends=True)
-    b = compact_pipeline.significant(new).splitlines(keepends=True)
+    a = pagetext.significant(old).splitlines(keepends=True)
+    b = pagetext.significant(new).splitlines(keepends=True)
     body = "".join(difflib.unified_diff(a, b, fromfile=f"{pid} было",
                                         tofile=f"{pid} стало", n=3))
     return f"### {pid}\n\n```diff\n{body}```\n" if body else ""
@@ -1279,16 +1306,24 @@ def run_patch(*, changed: dict, previous: dict, root: Path | None = None, agent_
 
 ```python
     run_compact_fn = run_compact_fn or compact_pipeline.run_patch
-    changed = {r["page"]: r["new_md"] for r in results
-               if r["status"] in ("new", "changed") and r.get("new_md")}
+    # `run_update` кладёт в результат `page`, `status`, `error`, `diff`, `old_md` —
+    # ключа с новым текстом там нет, а он уже лежит на диске: `update` перезаписал
+    # страницу до возврата. Читаем оттуда, а не заводим новый ключ ради одного места.
+    changed = {}
+    for r in results:
+        if r["status"] not in ("new", "changed"):
+            continue
+        page = root / "pages" / f"{r['page']}.md"
+        if page.exists():
+            changed[r["page"]] = page.read_text(encoding="utf-8")
     previous = {r["page"]: r["old_md"] for r in results if r.get("old_md")}
     compact_res = run_compact_fn(changed=changed, previous=previous, root=root)
     text += "\n" + compact_report.render_whole(compact_res)
     if compact_report.exit_code_whole(compact_res) != 0:
 ```
 
-Если `update` не кладёт в результат `new_md`, взять новый текст со страницы:
-`changed = {r["page"]: (root / "pages" / f"{r['page']}.md").read_text(encoding="utf-8") for r in results if r["status"] in ("new", "changed")}`. Проверить, что именно возвращает `update.pipeline.run_update`, и использовать существующий ключ, не изобретая новый.
+Проверено в исходнике `update/pipeline.py`: ключа `new_md` в результатах нет, поэтому
+новый текст берётся со страницы.
 
 `COMMIT_PATHS` оставить как есть: `context` теперь содержит `body.md` вместо `sections/`, путь тот же.
 
@@ -1331,7 +1366,9 @@ cd tools && git rm compact/sectionmap.py compact/generate.py \
 
 - [ ] **Step 3: Вычистить посекционное из pipeline и assemble**
 
-Удалить из `compact/pipeline.py`: `_sources_text`, `_todo`, `_blocked`, `run_compact`, `MASS_REBUILD_SHARE`, `MASS_REBUILD_MIN`, импорты `generate`, `sectionmap`. Оставить `significant`, `drop_cosmetic` (их использует `patch.page_diff`), `run_rebuild`, `run_patch`.
+Удалить из `compact/pipeline.py`: `_sources_text`, `_todo`, `_blocked`, `run_compact`, `MASS_REBUILD_SHARE`, `MASS_REBUILD_MIN`, импорты `generate`, `sectionmap`. Оставить `run_rebuild`, `run_patch`.
+
+Удалить из `compact/pagetext.py` функцию `drop_cosmetic` вместе с её тестами: её единственным потребителем был `run_compact`, а отсев косметики переехал в `patch.page_diff` — пустой дифф означает, что модель не зовут вовсе. `significant` остаётся: на ней стоит `page_diff`.
 
 Удалить из `compact/assemble.py`: `section_path`, `SECTIONS_DIR_REL`, `substitute_ids`, `build_unplaced_block`, `build`, `_INDEX_BULLET_RE`, импорт `SECTION_ID_RE`. Оставить `build_header`, `build_whole`, `release_summary`, `build_releases_block`, `OUT_REL`.
 
