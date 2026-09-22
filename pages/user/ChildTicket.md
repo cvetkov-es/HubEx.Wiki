@@ -2,7 +2,7 @@
 title: "Дочерние заявки"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/ChildTicket.html"
 section: "user"
-content_hash: "8c1ca48f3294d59d"
+content_hash: "505e011bc5f46c73"
 ---
 
 #### Дочерние заявки
@@ -11,6 +11,7 @@ content_hash: "8c1ca48f3294d59d"
 
 * [Как создать дочернюю заявку](https://wiki.hubex.ru/docs/FAQ/RU/user/ChildTicket.html#ChildTicket1);
 * [Как из любой заявки сделать дочернюю](https://wiki.hubex.ru/docs/FAQ/RU/user/ChildTicket.html#ChildTicket2);
+* [Как создать дочернюю заявку в мобильном приложении](https://wiki.hubex.ru/docs/FAQ/RU/user/ChildTicket.html#ChildTicketMP);
 * [Как отслеживать дочерние заявки](https://wiki.hubex.ru/docs/FAQ/RU/user/ChildTicket.html#ChildTicket3);
 * [Что делать, если дочерних заявок не видно](https://wiki.hubex.ru/docs/FAQ/RU/user/ChildTicket.html#ChildTicket4).
 
@@ -63,6 +64,20 @@ content_hash: "8c1ca48f3294d59d"
    заявка** и нажать кнопку **Сохранить**.
 
    ![](https://wiki.hubex.ru/attachments/images/FAQ/USER/ChildTicket/ParentTicket.jpg)
+
+##### Создание дочерних заявок в мобильном приложении
+
+В мобильном приложении дочерние заявки также можно создавать двумя способами.
+
+**Из карточки родительской заявки:** в форме заявки есть раздел **«Дочерние заявки»** со списком уже созданных дочерних заявок (если их нет — отображается заглушка). По кнопке **«+»** открывается краткая форма создания новой заявки с полями, предзаполненными из родительской: **Объект**, **Родительская заявка**, **Крайний срок закрытия** (дата и время). Все предзаполненные поля можно изменить, включая Объект. Созданная заявка сохраняется с пометкой **«Дочерняя»**. Тап по любой заявке в списке открывает её форму.
+
+![](https://wiki.hubex.ru/attachments/images/FAQ/USER/ChildTicket/ChildTicketMP-List.jpg)
+
+![](https://wiki.hubex.ru/attachments/images/FAQ/USER/ChildTicket/ChildTicketMP-List2.jpg)
+
+**При создании обычной заявки:** на форме создания заявки есть поле **«Родительская заявка»** — поле ввода с выпадающим списком. По тапу открывается список доступных родительских заявок (только незакрытые и неудалённые); выберите нужную — и создаваемая заявка сохранится как дочерняя.
+
+![](https://wiki.hubex.ru/attachments/images/FAQ/USER/ChildTicket/ChildTicketMP-ParentField.jpg)
 
 ##### Статистика дочерних заявок
 

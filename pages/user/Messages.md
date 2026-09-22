@@ -2,7 +2,7 @@
 title: "Сообщения по заявке"
 url: "https://wiki.hubex.ru/docs/FAQ/RU/user/Messages.html"
 section: "user"
-content_hash: "08edd86df20e612a"
+content_hash: "09be487f5d45b68b"
 ---
 
 #### Сообщения по заявке
@@ -23,13 +23,15 @@ content_hash: "08edd86df20e612a"
 
 ##### Сообщения в Web-приложении
 
-Для того, чтобы написать сообщение в web-приложении откройте **Заявку** и перейдите на вкладку **Сообщения**.
+Для того, чтобы написать сообщение в web-приложении откройте **Заявку** и перейдите на вкладку **Сообщения**. Рядом с названием вкладки отображается счётчик непрочитанных сообщений.
 
 ![](https://wiki.hubex.ru/attachments/images/FAQ/USER/Messages/MessageTicket.jpg)
 
-Все сообщения (включая новые и непрочитанные) по **Заявкам** также отражаются в меню системы в пункте **Сообщения**.
+![](https://wiki.hubex.ru/attachments/images/FAQ/USER/Messages/UnreadCounter.png)
 
-![](https://wiki.hubex.ru/attachments/images/FAQ/USER/Messages/Messages.jpg)
+Все сообщения (включая новые и непрочитанные) по **Заявкам** также отражаются в меню системы в пункте **Сообщения**. Чтобы отметить прочитанными сразу все новые сообщения во всех **Заявках**, нажмите кнопку **Прочитать все**.
+
+![](https://wiki.hubex.ru/attachments/images/FAQ/USER/Messages/ReadAllButton.png)
 
 ##### Сообщения в мобильном приложении
 
