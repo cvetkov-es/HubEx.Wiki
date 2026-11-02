@@ -142,7 +142,7 @@
 - [GeneralAnalytics](pages/user/GeneralAnalytics.md) — панель Power BI «Общая аналитика»: KPI, динамика поступивших заявок, разрезы.
 - [EngineersAnalytics](pages/user/EngineersAnalytics.md) — отчёт Power BI по сотрудникам: заявки и SLA, отработанное время, KPI, рейтинг.
 - [ObjectsAnalytics](pages/user/ObjectsAnalytics.md) — Power BI-отчёт по объектам обслуживания: KPI (MTBF, MTTR, активные объекты), динамика количества объектов, диаграмма заявок и скорости закрытия, таблица показателей, детальный отчёт по объекту и карта географии.
-- [ClientsAnalytics](pages/user/ClientsAnalytics.md) — отчёт «Отчёт для клиента» на Power BI.
+- [ClientsAnalytics](pages/user/ClientsAnalytics.md) — «Отчёт для клиента» (Аналитика): сводка по заявкам заказчиков — вкладки Открытые/Выполненные/Закрытые, фильтры, KPI (SLA, просрочки, время реакции и решения), динамика, SLA в разрезах, проблемные объекты, экспорт в HTML/Excel.
 - [ProcessEfficiency](pages/user/ProcessEfficiency.md) — отчёт «Анализ эффективности процессов»: проблемы в бизнес-процессах, сравнение эффективности, время прохождения стадий.
 - [TicketsReport](pages/user/TicketsReport.md) — раздел «Срез по заявкам»: диаграммы по стадиям, просрочкам, компаниям, загруженности.
 - [Export](pages/user/Export.md) — экспорт заявок, медиафайлов, объектов, пользователей, компаний в Excel.
